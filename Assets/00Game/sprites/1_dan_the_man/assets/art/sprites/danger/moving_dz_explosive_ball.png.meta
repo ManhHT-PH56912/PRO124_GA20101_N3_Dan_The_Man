@@ -261,7 +261,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      moving_dz_explosive_ball_0: -2703938475472845210
+      moving_dz_explosive_ball_1: 6074188110597906134
+      moving_dz_explosive_ball_2: 7196797498506260023
+      moving_dz_explosive_ball_3: 7259826672744617393
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

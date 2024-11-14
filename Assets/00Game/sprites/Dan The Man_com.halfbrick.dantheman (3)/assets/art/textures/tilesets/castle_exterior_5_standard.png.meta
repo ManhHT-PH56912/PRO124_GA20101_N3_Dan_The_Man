@@ -461,7 +461,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      castle_exterior_5_standard_0: 3827347589404006827
+      castle_exterior_5_standard_1: -5348007107625966116
+      castle_exterior_5_standard_10: 7495821301532288197
+      castle_exterior_5_standard_11: 617807488245859741
+      castle_exterior_5_standard_2: -5194810871632699102
+      castle_exterior_5_standard_3: -7311808183154207619
+      castle_exterior_5_standard_4: -4520454406904782029
+      castle_exterior_5_standard_5: -5767923017533854655
+      castle_exterior_5_standard_6: -7252264028096539865
+      castle_exterior_5_standard_7: -3605220616776258113
+      castle_exterior_5_standard_8: -3080462701656678607
+      castle_exterior_5_standard_9: -5286365657726355503
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

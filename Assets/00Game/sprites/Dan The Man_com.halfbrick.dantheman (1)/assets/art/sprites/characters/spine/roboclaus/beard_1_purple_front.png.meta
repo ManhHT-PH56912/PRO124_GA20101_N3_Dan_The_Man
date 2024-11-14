@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      beard_1_purple_front_0: 8313202831223868797
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

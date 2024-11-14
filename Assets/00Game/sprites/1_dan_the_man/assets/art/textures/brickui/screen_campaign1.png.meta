@@ -1136,7 +1136,46 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      screen_campaign1_0: -7320679928113240512
+      screen_campaign1_1: -6444036162874304494
+      screen_campaign1_10: -5210729761809564286
+      screen_campaign1_11: 5118758917580852612
+      screen_campaign1_12: -7129663611000620327
+      screen_campaign1_13: 34425809895577598
+      screen_campaign1_14: -2274964092441652801
+      screen_campaign1_15: 3581700019742855278
+      screen_campaign1_16: 7004257370365066668
+      screen_campaign1_17: 5294329440982634834
+      screen_campaign1_18: -6882551905885020867
+      screen_campaign1_19: -4952782161084122718
+      screen_campaign1_2: -2836106834196276196
+      screen_campaign1_20: -6218290518384100027
+      screen_campaign1_21: 85265696329336226
+      screen_campaign1_22: 7779656893993800808
+      screen_campaign1_23: -1100426939204092449
+      screen_campaign1_24: -6282306928604471838
+      screen_campaign1_25: 8555492454826901747
+      screen_campaign1_26: -3100060847745791552
+      screen_campaign1_27: -4576777746695292203
+      screen_campaign1_28: -2431123346046874518
+      screen_campaign1_29: 9088815207983448821
+      screen_campaign1_3: 1099314751384302307
+      screen_campaign1_30: 2046511017091817432
+      screen_campaign1_31: 6348105931929615638
+      screen_campaign1_32: 8367270713186039493
+      screen_campaign1_33: 7772331746975685062
+      screen_campaign1_34: -4667802962060513544
+      screen_campaign1_35: 1661835660274167546
+      screen_campaign1_36: -6949515379771489047
+      screen_campaign1_37: -1843566345834638041
+      screen_campaign1_38: -8725861118948908672
+      screen_campaign1_4: 5109270753069413058
+      screen_campaign1_5: 1365433334842083451
+      screen_campaign1_6: -6789101342847896089
+      screen_campaign1_7: 7466433335803370354
+      screen_campaign1_8: 8440547197811722619
+      screen_campaign1_9: -2197455643296896144
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

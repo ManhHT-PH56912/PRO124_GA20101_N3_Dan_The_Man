@@ -611,7 +611,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_sewers_1_0: 7190744258820089296
+      visual_template_sewers_1_1: -3882949370996224666
+      visual_template_sewers_1_10: 4197497501395907933
+      visual_template_sewers_1_11: -2633336204748831892
+      visual_template_sewers_1_12: -5886729773331630534
+      visual_template_sewers_1_13: -6125107144469010807
+      visual_template_sewers_1_14: -6320021658301317424
+      visual_template_sewers_1_15: 3934068338334423510
+      visual_template_sewers_1_16: 826986390848733117
+      visual_template_sewers_1_17: -4945647197653274861
+      visual_template_sewers_1_2: 6976835268752204760
+      visual_template_sewers_1_3: -3557372086684663372
+      visual_template_sewers_1_4: 8644832925904180566
+      visual_template_sewers_1_5: -7979836022340731000
+      visual_template_sewers_1_6: -56325506024150976
+      visual_template_sewers_1_7: 8598726319792182456
+      visual_template_sewers_1_8: -3630986171117138282
+      visual_template_sewers_1_9: -1352097243663704282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

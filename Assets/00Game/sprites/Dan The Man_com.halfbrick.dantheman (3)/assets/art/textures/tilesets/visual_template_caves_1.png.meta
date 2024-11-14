@@ -1586,7 +1586,64 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_caves_1_0: -756359816532483013
+      visual_template_caves_1_1: 2795118071773280654
+      visual_template_caves_1_10: -1587153693128323449
+      visual_template_caves_1_11: -1248499236934733406
+      visual_template_caves_1_12: -549739617468415958
+      visual_template_caves_1_13: 4867461007917425619
+      visual_template_caves_1_14: 5594300440805503499
+      visual_template_caves_1_15: -2304448412803119078
+      visual_template_caves_1_16: -6402877017656065529
+      visual_template_caves_1_17: -2072782919587889261
+      visual_template_caves_1_18: -4633578405169958553
+      visual_template_caves_1_19: -8831625832882316608
+      visual_template_caves_1_2: 3590674015433952500
+      visual_template_caves_1_20: -6609533485704257759
+      visual_template_caves_1_21: -2693202657089847260
+      visual_template_caves_1_22: 2384751683289949902
+      visual_template_caves_1_23: 355497226362751973
+      visual_template_caves_1_24: 3595599056665908161
+      visual_template_caves_1_25: 8887789321249639957
+      visual_template_caves_1_26: 7449889688988179134
+      visual_template_caves_1_27: 6085353024650198168
+      visual_template_caves_1_28: 1167933205468733700
+      visual_template_caves_1_29: 1778437775529966000
+      visual_template_caves_1_3: 2087208155549214349
+      visual_template_caves_1_30: -9021284721154244096
+      visual_template_caves_1_31: 5976926023153157256
+      visual_template_caves_1_32: 2347629637134528168
+      visual_template_caves_1_33: -531683646665528299
+      visual_template_caves_1_34: -4259479831008531602
+      visual_template_caves_1_35: 7290105397145587124
+      visual_template_caves_1_36: -5229561211351180346
+      visual_template_caves_1_37: -2255089004430755109
+      visual_template_caves_1_38: -3672732474123578513
+      visual_template_caves_1_39: 6846252785360625860
+      visual_template_caves_1_4: 3111855939373029543
+      visual_template_caves_1_40: -6134364286470983721
+      visual_template_caves_1_41: 1672828008986450733
+      visual_template_caves_1_42: 7987846323496201180
+      visual_template_caves_1_43: -6868278865042718664
+      visual_template_caves_1_44: -3250762402934301522
+      visual_template_caves_1_45: 4135241764985477598
+      visual_template_caves_1_46: -7867876800378461367
+      visual_template_caves_1_47: -3979303929747227329
+      visual_template_caves_1_48: 5135665766191618118
+      visual_template_caves_1_49: 4137525248761833909
+      visual_template_caves_1_5: 8983898968748207622
+      visual_template_caves_1_50: -5619774254496477099
+      visual_template_caves_1_51: -2221711794310009763
+      visual_template_caves_1_52: 5976528677092871603
+      visual_template_caves_1_53: 1317121643104537743
+      visual_template_caves_1_54: -4512169800871722564
+      visual_template_caves_1_55: 2922824265129286164
+      visual_template_caves_1_56: 3131480182422529924
+      visual_template_caves_1_6: -5746577004979427206
+      visual_template_caves_1_7: 3991439764358925790
+      visual_template_caves_1_8: 6506002718861000966
+      visual_template_caves_1_9: -5313670992587391855
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

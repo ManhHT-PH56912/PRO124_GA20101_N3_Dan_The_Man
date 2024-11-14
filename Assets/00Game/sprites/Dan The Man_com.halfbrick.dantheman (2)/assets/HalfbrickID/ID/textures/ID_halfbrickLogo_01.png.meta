@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ID_halfbrickLogo_01_0: 6708170619657567820
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

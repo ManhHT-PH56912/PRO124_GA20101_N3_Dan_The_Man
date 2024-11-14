@@ -1286,7 +1286,52 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      master_white_0: -8742440830087896772
+      master_white_1: -7035544427757378178
+      master_white_10: -365050715272745368
+      master_white_11: 6938979185254953453
+      master_white_12: 8409586322406166933
+      master_white_13: -5587550363868502336
+      master_white_14: 6218836998308044095
+      master_white_15: 8691945114711082244
+      master_white_16: 2267756266588455111
+      master_white_17: -1668807265736570969
+      master_white_18: -87775162248539857
+      master_white_19: 3337882910489667259
+      master_white_2: -4109641695313043510
+      master_white_20: 5549615647741047863
+      master_white_21: -8011465588718406669
+      master_white_22: 4106595872708819445
+      master_white_23: 5359905949472144063
+      master_white_24: 4984061312895755676
+      master_white_25: -4676217188311547282
+      master_white_26: 3102418766726004041
+      master_white_27: -802127764917927350
+      master_white_28: -6586436487477614490
+      master_white_29: -7086005818413280725
+      master_white_3: -4924968808832567128
+      master_white_30: -8081241458322572785
+      master_white_31: -5870497511095596694
+      master_white_32: 7218323165621594543
+      master_white_33: -8917899190316623779
+      master_white_34: 4618799152745303872
+      master_white_35: -8279897690908551875
+      master_white_36: -595450304596507679
+      master_white_37: 6042863518191323914
+      master_white_38: -2140116573195057816
+      master_white_39: 1222966127617549865
+      master_white_4: -8695466972940633005
+      master_white_40: 2183385895850427194
+      master_white_41: -9150034571461718008
+      master_white_42: 4053092187863766635
+      master_white_43: -8006612826314305172
+      master_white_44: -2627770630941391698
+      master_white_5: 3163596790052311325
+      master_white_6: -6013286394641358703
+      master_white_7: 3062030375620286362
+      master_white_8: -9108779667469076344
+      master_white_9: 2663580797552530541
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

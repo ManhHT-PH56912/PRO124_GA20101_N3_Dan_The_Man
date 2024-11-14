@@ -1436,7 +1436,58 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      screen_store5_0: -4796810168719334568
+      screen_store5_1: 8855423558801639697
+      screen_store5_10: 3523354867870679060
+      screen_store5_11: 7645983544630813094
+      screen_store5_12: -1560246023205564965
+      screen_store5_13: -8721430559104070085
+      screen_store5_14: -5390983580316508295
+      screen_store5_15: -3448185589155800515
+      screen_store5_16: 8810114775739039834
+      screen_store5_17: 7486905837017076236
+      screen_store5_18: 4487020420783325088
+      screen_store5_19: -723786830243681807
+      screen_store5_2: -1438173391478753702
+      screen_store5_20: 94493901112530561
+      screen_store5_21: -8718697246173705042
+      screen_store5_22: 4066887924241197458
+      screen_store5_23: -7726521503248122915
+      screen_store5_24: 6966842981204403633
+      screen_store5_25: -5993637904837024222
+      screen_store5_26: 5946686812639282478
+      screen_store5_27: 2579145891915233664
+      screen_store5_28: -1555196446194032267
+      screen_store5_29: 573405648519054871
+      screen_store5_3: 5377515930173521552
+      screen_store5_30: -1315895642119452003
+      screen_store5_31: 608425725775648113
+      screen_store5_32: 6126597077215204374
+      screen_store5_33: 6256390741303261542
+      screen_store5_34: 5732676573756378315
+      screen_store5_35: 4525107699388425245
+      screen_store5_36: -3225905983766425174
+      screen_store5_37: 1619775003049566637
+      screen_store5_38: 7519960029467383161
+      screen_store5_39: 422981900345489876
+      screen_store5_4: 2474564041845286545
+      screen_store5_40: -4214512878219901567
+      screen_store5_41: -4412955300003810663
+      screen_store5_42: 6677488625662718385
+      screen_store5_43: -8660452995064796674
+      screen_store5_44: 4369579826732004952
+      screen_store5_45: 4963864143647277485
+      screen_store5_46: -3871153290911804867
+      screen_store5_47: -5700610048060854502
+      screen_store5_48: -1802655597663385674
+      screen_store5_49: -57907311048086179
+      screen_store5_5: -5937840718099426432
+      screen_store5_50: 6507138217807601903
+      screen_store5_6: 5596442503968126357
+      screen_store5_7: -6537291031060602244
+      screen_store5_8: -7820081858424984298
+      screen_store5_9: 3979430353035873050
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -286,7 +286,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      choose_josie_0: -8036725022160048769
+      choose_josie_1: 2424161262152511339
+      choose_josie_2: -1275881607771957690
+      choose_josie_3: 6269504339649287352
+      choose_josie_4: -8020800579655541227
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

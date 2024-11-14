@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stpatricks_background_0: -1424684295936566688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

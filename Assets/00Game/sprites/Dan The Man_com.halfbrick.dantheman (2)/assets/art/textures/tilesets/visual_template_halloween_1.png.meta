@@ -686,7 +686,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_halloween_1_0: 7352884509897114427
+      visual_template_halloween_1_1: -5010651899893245442
+      visual_template_halloween_1_10: -519348639902187796
+      visual_template_halloween_1_11: 8685461356559435772
+      visual_template_halloween_1_12: -2619571480102029928
+      visual_template_halloween_1_13: -628025943976898993
+      visual_template_halloween_1_14: 255651828910523040
+      visual_template_halloween_1_15: -5121911159888463586
+      visual_template_halloween_1_16: -18703208273255654
+      visual_template_halloween_1_17: 3171844996850259787
+      visual_template_halloween_1_18: -1534759175243829775
+      visual_template_halloween_1_19: -7401963908874687209
+      visual_template_halloween_1_2: 2062132859433777910
+      visual_template_halloween_1_20: 6587353035417193412
+      visual_template_halloween_1_3: 7773657183818776120
+      visual_template_halloween_1_4: -110168551491755870
+      visual_template_halloween_1_5: -315920205156634670
+      visual_template_halloween_1_6: -2748663869522214030
+      visual_template_halloween_1_7: 2855316783015852863
+      visual_template_halloween_1_8: 2029840606185686340
+      visual_template_halloween_1_9: 8959742195222018015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

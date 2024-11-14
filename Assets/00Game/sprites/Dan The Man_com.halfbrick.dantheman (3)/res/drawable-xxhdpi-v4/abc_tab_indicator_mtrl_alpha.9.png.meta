@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_tab_indicator_mtrl_alpha.9_0: 1910047243247558100
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

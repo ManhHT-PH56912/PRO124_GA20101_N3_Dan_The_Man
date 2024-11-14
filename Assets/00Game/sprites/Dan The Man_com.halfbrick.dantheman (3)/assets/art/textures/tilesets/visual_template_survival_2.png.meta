@@ -836,7 +836,34 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_survival_2_0: 6001079060217207249
+      visual_template_survival_2_1: 5146816787563091071
+      visual_template_survival_2_10: -2330256287386491081
+      visual_template_survival_2_11: -5683863332129634051
+      visual_template_survival_2_12: -8989178549805687141
+      visual_template_survival_2_13: -1637436360163225160
+      visual_template_survival_2_14: -6801236908528698918
+      visual_template_survival_2_15: 8622766157954423852
+      visual_template_survival_2_16: 7134334119354525437
+      visual_template_survival_2_17: 5928551328461939574
+      visual_template_survival_2_18: 6887689759807479514
+      visual_template_survival_2_19: -9220538735701339362
+      visual_template_survival_2_2: 8182250272034675822
+      visual_template_survival_2_20: 4481110935473663406
+      visual_template_survival_2_21: -7906883053350153039
+      visual_template_survival_2_22: -558332792206299974
+      visual_template_survival_2_23: -266077146377823395
+      visual_template_survival_2_24: 4935721548777235708
+      visual_template_survival_2_25: 1837511620901913999
+      visual_template_survival_2_26: -8318150544833757396
+      visual_template_survival_2_3: 8344649588163653705
+      visual_template_survival_2_4: -2753470605530840963
+      visual_template_survival_2_5: -895939442696601663
+      visual_template_survival_2_6: -8536692991376834412
+      visual_template_survival_2_7: -2322608655198695711
+      visual_template_survival_2_8: -4566785304485276491
+      visual_template_survival_2_9: -1389678548655700080
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

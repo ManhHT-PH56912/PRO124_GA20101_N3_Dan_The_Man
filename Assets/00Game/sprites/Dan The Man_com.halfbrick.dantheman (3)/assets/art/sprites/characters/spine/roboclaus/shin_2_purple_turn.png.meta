@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shin_2_purple_turn_0: -6690304580884597259
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

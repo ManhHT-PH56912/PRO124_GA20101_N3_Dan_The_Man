@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_ic_menu_share_mtrl_alpha_0: -1077294154208596318
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

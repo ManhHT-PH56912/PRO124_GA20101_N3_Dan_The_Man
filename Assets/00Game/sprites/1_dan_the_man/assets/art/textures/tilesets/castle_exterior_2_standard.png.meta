@@ -961,7 +961,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      castle_exterior_2_standard_0: 2798329529753828720
+      castle_exterior_2_standard_1: -3350221669177730767
+      castle_exterior_2_standard_10: -2982203086418186338
+      castle_exterior_2_standard_11: 5346987238243764603
+      castle_exterior_2_standard_12: -2025693897498773649
+      castle_exterior_2_standard_13: 5248484736300721103
+      castle_exterior_2_standard_14: 5579924290234521994
+      castle_exterior_2_standard_15: -8562536464199526911
+      castle_exterior_2_standard_16: 7379772268717753363
+      castle_exterior_2_standard_17: -3909192189666161074
+      castle_exterior_2_standard_18: 6740836302364374278
+      castle_exterior_2_standard_19: 4906982809254840463
+      castle_exterior_2_standard_2: -4700749255004142595
+      castle_exterior_2_standard_20: 2832717585780007677
+      castle_exterior_2_standard_21: -4380556673732350202
+      castle_exterior_2_standard_22: -216515463793446445
+      castle_exterior_2_standard_23: 5532268629048013161
+      castle_exterior_2_standard_24: 1489175258962582601
+      castle_exterior_2_standard_25: 3688526832674643888
+      castle_exterior_2_standard_26: 6162864173978776151
+      castle_exterior_2_standard_27: 1033122515598206641
+      castle_exterior_2_standard_28: -3195333764985099944
+      castle_exterior_2_standard_29: 7402715098243914276
+      castle_exterior_2_standard_3: -2055517661238339953
+      castle_exterior_2_standard_30: 7146953844880972633
+      castle_exterior_2_standard_31: 5195058712913387391
+      castle_exterior_2_standard_4: -6268765569761716102
+      castle_exterior_2_standard_5: -6714771274829349775
+      castle_exterior_2_standard_6: -3062588977844477038
+      castle_exterior_2_standard_7: 8087973296760775601
+      castle_exterior_2_standard_8: 9075836654756444654
+      castle_exterior_2_standard_9: 4645250434318625131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

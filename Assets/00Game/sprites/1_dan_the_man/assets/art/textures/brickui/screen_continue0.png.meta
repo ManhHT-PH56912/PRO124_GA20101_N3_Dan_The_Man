@@ -1286,7 +1286,52 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      screen_continue0_0: 5234923953026642053
+      screen_continue0_1: -3171238760333783215
+      screen_continue0_10: 1139111601227365684
+      screen_continue0_11: -5144373866927995915
+      screen_continue0_12: 7780241073981072805
+      screen_continue0_13: 3173630568767538118
+      screen_continue0_14: -1080041026597908518
+      screen_continue0_15: -7750984095826549370
+      screen_continue0_16: 4519440724611803196
+      screen_continue0_17: -1672328557349221086
+      screen_continue0_18: -5997700437103052690
+      screen_continue0_19: -8812631770611538667
+      screen_continue0_2: -8674064653778376295
+      screen_continue0_20: 6606139983818597608
+      screen_continue0_21: -5937045240669542449
+      screen_continue0_22: 540638901735580419
+      screen_continue0_23: 3301896608052855105
+      screen_continue0_24: -4481116595695911967
+      screen_continue0_25: -1714799768703920895
+      screen_continue0_26: -8608431761315767813
+      screen_continue0_27: 7172283981694629944
+      screen_continue0_28: -2516104171355298168
+      screen_continue0_29: 1872550560744129175
+      screen_continue0_3: -3535333815022804294
+      screen_continue0_30: 7432455633360127256
+      screen_continue0_31: -4919182071838686965
+      screen_continue0_32: -7795553382026365075
+      screen_continue0_33: -6851038214559140525
+      screen_continue0_34: 1445349928034158675
+      screen_continue0_35: -9156590431671351164
+      screen_continue0_36: -5565476497834298399
+      screen_continue0_37: 6094812556265567313
+      screen_continue0_38: 912702078636667278
+      screen_continue0_39: -2702429429963846597
+      screen_continue0_4: -4672808431743070556
+      screen_continue0_40: -5234220957734144860
+      screen_continue0_41: 2929129767281365433
+      screen_continue0_42: 970782093796057355
+      screen_continue0_43: 6245288127690957317
+      screen_continue0_44: 826837949267897543
+      screen_continue0_5: 7169845711250481048
+      screen_continue0_6: -3030404570477511003
+      screen_continue0_7: 5818804194863793891
+      screen_continue0_8: 8211946524762452738
+      screen_continue0_9: 7127653380749884274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -261,7 +261,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GoldCounterAnim_0: 1353244874740646218
+      GoldCounterAnim_1: -3081975849988640515
+      GoldCounterAnim_2: 493608751171895659
+      GoldCounterAnim_3: 8578914154295987715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

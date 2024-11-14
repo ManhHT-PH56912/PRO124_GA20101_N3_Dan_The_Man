@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      com_facebook_favicon_white_0: 3217130281362591762
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

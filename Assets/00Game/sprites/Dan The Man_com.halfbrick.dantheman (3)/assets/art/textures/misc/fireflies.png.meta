@@ -236,7 +236,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fireflies_0: -5217461692476289899
+      fireflies_1: -9109315373011105068
+      fireflies_2: 1393776423734617103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

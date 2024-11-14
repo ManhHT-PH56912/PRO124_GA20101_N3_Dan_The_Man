@@ -1211,7 +1211,49 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cinematic_timeattack_0: -9053453574052777709
+      cinematic_timeattack_1: -8826602392936299309
+      cinematic_timeattack_10: 4415830821733819801
+      cinematic_timeattack_11: -5513994501864529738
+      cinematic_timeattack_12: -7524854356329740957
+      cinematic_timeattack_13: -3438859646604917977
+      cinematic_timeattack_14: -6928680585077007708
+      cinematic_timeattack_15: -2788532995943869318
+      cinematic_timeattack_16: 1606672250682116576
+      cinematic_timeattack_17: -3180784765278653538
+      cinematic_timeattack_18: -2338222629839683420
+      cinematic_timeattack_19: 101278491817278329
+      cinematic_timeattack_2: 8492679403767277395
+      cinematic_timeattack_20: -4270767443394259417
+      cinematic_timeattack_21: 1448144239593502351
+      cinematic_timeattack_22: 2969038516510601413
+      cinematic_timeattack_23: -8193758690519634297
+      cinematic_timeattack_24: 8796851543228939220
+      cinematic_timeattack_25: -4249338463822183720
+      cinematic_timeattack_26: 1555165008069313100
+      cinematic_timeattack_27: -5985672803369918162
+      cinematic_timeattack_28: -2415759767735274339
+      cinematic_timeattack_29: 8422622520839500609
+      cinematic_timeattack_3: -7447999563279563828
+      cinematic_timeattack_30: 30155530203220884
+      cinematic_timeattack_31: 8400607961488112392
+      cinematic_timeattack_32: -7345232912811983805
+      cinematic_timeattack_33: -446867811931146558
+      cinematic_timeattack_34: -1949692232621015530
+      cinematic_timeattack_35: -3487122486042806892
+      cinematic_timeattack_36: 548558326436525123
+      cinematic_timeattack_37: -7328166520404353126
+      cinematic_timeattack_38: 8284833183615142546
+      cinematic_timeattack_39: -3715967861456905891
+      cinematic_timeattack_4: -5589983014462003391
+      cinematic_timeattack_40: -5365886976924286450
+      cinematic_timeattack_41: 6400442028653182391
+      cinematic_timeattack_5: -7646368207783349803
+      cinematic_timeattack_6: -8516521242382035813
+      cinematic_timeattack_7: -7502042970771457817
+      cinematic_timeattack_8: 6639349462714950057
+      cinematic_timeattack_9: -2629166386021112850
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

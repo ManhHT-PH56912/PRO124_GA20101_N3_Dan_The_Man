@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      coolhue_0: -7694004680578976615
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

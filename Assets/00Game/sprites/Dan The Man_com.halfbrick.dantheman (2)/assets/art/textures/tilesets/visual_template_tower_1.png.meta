@@ -1186,7 +1186,48 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_tower_1_0: 898928307777559467
+      visual_template_tower_1_1: -818392411939026503
+      visual_template_tower_1_10: -4698238687892437077
+      visual_template_tower_1_11: 6919904827265741714
+      visual_template_tower_1_12: -556526610927283753
+      visual_template_tower_1_13: -4764161155780796193
+      visual_template_tower_1_14: -1682300431264072999
+      visual_template_tower_1_15: 1830554005106562653
+      visual_template_tower_1_16: -4880524875204539971
+      visual_template_tower_1_17: 4793463606703194214
+      visual_template_tower_1_18: 8696545553209588685
+      visual_template_tower_1_19: 6236391982795274918
+      visual_template_tower_1_2: 7856842663983809328
+      visual_template_tower_1_20: 1561279071316451617
+      visual_template_tower_1_21: -1809881803702646376
+      visual_template_tower_1_22: -3432017685382593264
+      visual_template_tower_1_23: 2067534901087528182
+      visual_template_tower_1_24: 9047625935851578028
+      visual_template_tower_1_25: -4748475176345582249
+      visual_template_tower_1_26: 5864225299669917737
+      visual_template_tower_1_27: 450331736609496744
+      visual_template_tower_1_28: -4716138704644329739
+      visual_template_tower_1_29: 6522663807970650876
+      visual_template_tower_1_3: 7114802973682639914
+      visual_template_tower_1_30: -2957196542531555187
+      visual_template_tower_1_31: -1113641826043928971
+      visual_template_tower_1_32: 3196775758936915180
+      visual_template_tower_1_33: 8127956357740832543
+      visual_template_tower_1_34: -2673979305711904309
+      visual_template_tower_1_35: -6853443248593979264
+      visual_template_tower_1_36: -2508050637301459706
+      visual_template_tower_1_37: -7715840390664953255
+      visual_template_tower_1_38: -4581884051676123969
+      visual_template_tower_1_39: 8845916224430974285
+      visual_template_tower_1_4: -7043464148430983266
+      visual_template_tower_1_40: 119103923004075297
+      visual_template_tower_1_5: -10058392455523902
+      visual_template_tower_1_6: 7402731480754160057
+      visual_template_tower_1_7: -7367253638387464037
+      visual_template_tower_1_8: 2449328806283270021
+      visual_template_tower_1_9: -8790208048463209026
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

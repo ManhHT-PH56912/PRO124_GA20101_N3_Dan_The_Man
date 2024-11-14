@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      snowy_village_background_0: -7903326196246126506
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

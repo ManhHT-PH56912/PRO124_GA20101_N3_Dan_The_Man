@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      quick_shop_portal_0: 2739440540071301255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

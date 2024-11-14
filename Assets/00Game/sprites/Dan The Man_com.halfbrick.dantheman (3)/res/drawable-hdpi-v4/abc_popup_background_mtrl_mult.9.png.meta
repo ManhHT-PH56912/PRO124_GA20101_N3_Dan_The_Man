@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_popup_background_mtrl_mult.9_0: -5969372012932794599
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      courtyard_background_0: 4116186272327976903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

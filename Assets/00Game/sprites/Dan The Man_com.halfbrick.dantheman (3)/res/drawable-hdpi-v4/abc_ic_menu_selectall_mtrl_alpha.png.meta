@@ -586,7 +586,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_ic_menu_selectall_mtrl_alpha_0: 5373862853411043749
+      abc_ic_menu_selectall_mtrl_alpha_1: -3528018839712014579
+      abc_ic_menu_selectall_mtrl_alpha_10: 4020944756742175986
+      abc_ic_menu_selectall_mtrl_alpha_11: -6270079317333506630
+      abc_ic_menu_selectall_mtrl_alpha_12: -7145099520367611441
+      abc_ic_menu_selectall_mtrl_alpha_13: -5709816753304160864
+      abc_ic_menu_selectall_mtrl_alpha_14: 7014892444684400681
+      abc_ic_menu_selectall_mtrl_alpha_15: 4786065526473908333
+      abc_ic_menu_selectall_mtrl_alpha_16: 8345561469656871293
+      abc_ic_menu_selectall_mtrl_alpha_2: 6871913206468853594
+      abc_ic_menu_selectall_mtrl_alpha_3: -6449891044354209918
+      abc_ic_menu_selectall_mtrl_alpha_4: 603897452398633512
+      abc_ic_menu_selectall_mtrl_alpha_5: -8572988587078659323
+      abc_ic_menu_selectall_mtrl_alpha_6: 959614850278411999
+      abc_ic_menu_selectall_mtrl_alpha_7: -2494986679003683532
+      abc_ic_menu_selectall_mtrl_alpha_8: 7475575340865376292
+      abc_ic_menu_selectall_mtrl_alpha_9: -17219438668737559
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -711,7 +711,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      countryside_2_standard_0: 9005397513637346288
+      countryside_2_standard_1: -6283436407453170977
+      countryside_2_standard_10: 5732090306851724809
+      countryside_2_standard_11: -6384938444731179746
+      countryside_2_standard_12: -4000907894221146231
+      countryside_2_standard_13: -5324213655298131137
+      countryside_2_standard_14: 2654745636484174265
+      countryside_2_standard_15: -1512806232624765696
+      countryside_2_standard_16: 6383221801198627755
+      countryside_2_standard_17: 4724529500508585543
+      countryside_2_standard_18: 7145610589592671996
+      countryside_2_standard_19: 587015636304982536
+      countryside_2_standard_2: -6919595874374164490
+      countryside_2_standard_20: 2914889950290443201
+      countryside_2_standard_21: -2695090663823359180
+      countryside_2_standard_3: 9161190746285765599
+      countryside_2_standard_4: 7166861995344154908
+      countryside_2_standard_5: 8063912849770217723
+      countryside_2_standard_6: -6447078630979262884
+      countryside_2_standard_7: 724367240398281414
+      countryside_2_standard_8: 7378577615310656247
+      countryside_2_standard_9: -8448155223873414411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

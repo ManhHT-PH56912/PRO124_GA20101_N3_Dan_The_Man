@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lb_card_shadow_normal.9_0: 203919935328912728
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

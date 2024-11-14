@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      countryside_background_1_0: -5314201766188634274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

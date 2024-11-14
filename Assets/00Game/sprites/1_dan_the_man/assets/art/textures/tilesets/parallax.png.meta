@@ -736,7 +736,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      parallax_0: 7663198029359948385
+      parallax_1: 1341199908057720416
+      parallax_10: 6103955675259221847
+      parallax_11: -6566335594622826773
+      parallax_12: -2557163765212691258
+      parallax_13: -8743310911446808061
+      parallax_14: 6783298583410155684
+      parallax_15: -1882692627652539900
+      parallax_16: -7174242797755156960
+      parallax_17: 8923320685205306306
+      parallax_18: -463425706259397182
+      parallax_19: -229654917087256387
+      parallax_2: 2235691745714251301
+      parallax_20: -631160842872008739
+      parallax_21: 4346220988391586930
+      parallax_22: -4964997305465333081
+      parallax_3: -8210042450093456228
+      parallax_4: -6559635513358635303
+      parallax_5: -5715858708454468219
+      parallax_6: -9113649733898273950
+      parallax_7: 7055028588417893295
+      parallax_8: -202236024142097624
+      parallax_9: 8739988193793020465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

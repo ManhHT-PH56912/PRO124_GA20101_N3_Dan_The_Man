@@ -436,7 +436,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      screen_valentine0_0: 8546702905178463451
+      screen_valentine0_1: 8447587328456198512
+      screen_valentine0_10: -2907997456184010583
+      screen_valentine0_2: 2474473646399541450
+      screen_valentine0_3: 401025619994188528
+      screen_valentine0_4: 849674671958401529
+      screen_valentine0_5: -6533062731676720882
+      screen_valentine0_6: -8819618713790794891
+      screen_valentine0_7: 2231005655445628137
+      screen_valentine0_8: 2669712958833298396
+      screen_valentine0_9: -1293563896491798301
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

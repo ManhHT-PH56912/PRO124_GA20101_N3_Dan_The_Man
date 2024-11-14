@@ -1261,7 +1261,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      screen_player_upgrade0_0: 6364313041647662788
+      screen_player_upgrade0_1: 1852206183932897084
+      screen_player_upgrade0_10: -7056519928202731757
+      screen_player_upgrade0_11: -4646946302147416502
+      screen_player_upgrade0_12: 9118302203910271159
+      screen_player_upgrade0_13: -3075494618072506681
+      screen_player_upgrade0_14: -6666361227181560195
+      screen_player_upgrade0_15: 3038319528860516459
+      screen_player_upgrade0_16: 3428805565254864827
+      screen_player_upgrade0_17: 5700968215913939596
+      screen_player_upgrade0_18: -1088638797008934332
+      screen_player_upgrade0_19: 7074752249709581312
+      screen_player_upgrade0_2: 6747288578376521487
+      screen_player_upgrade0_20: 141313671040190893
+      screen_player_upgrade0_21: 5048220690089594421
+      screen_player_upgrade0_22: -810763581310589343
+      screen_player_upgrade0_23: -1662952957465113082
+      screen_player_upgrade0_24: -9207170071020902064
+      screen_player_upgrade0_25: -8142253921799636399
+      screen_player_upgrade0_26: -8736988531374533148
+      screen_player_upgrade0_27: 5615452837331390153
+      screen_player_upgrade0_28: 143433100039837745
+      screen_player_upgrade0_29: -4846706191860065082
+      screen_player_upgrade0_3: -4553338320098520548
+      screen_player_upgrade0_30: 2555698433973605347
+      screen_player_upgrade0_31: 3087016303531338712
+      screen_player_upgrade0_32: 97737473718684349
+      screen_player_upgrade0_33: 650064412897697523
+      screen_player_upgrade0_34: -1081937001741779902
+      screen_player_upgrade0_35: 495150977917866568
+      screen_player_upgrade0_36: 5693734342284917991
+      screen_player_upgrade0_37: -7182767817707134736
+      screen_player_upgrade0_38: 420820716534151847
+      screen_player_upgrade0_39: 9013406026826193595
+      screen_player_upgrade0_4: 4647545200626366594
+      screen_player_upgrade0_40: 6299576929111471811
+      screen_player_upgrade0_41: -3267334470748331246
+      screen_player_upgrade0_42: 308137687498064522
+      screen_player_upgrade0_43: -2143298010683748812
+      screen_player_upgrade0_5: 899555042878752361
+      screen_player_upgrade0_6: -1708696730684254687
+      screen_player_upgrade0_7: -2564991484649343406
+      screen_player_upgrade0_8: 4163650991557336230
+      screen_player_upgrade0_9: -4008161886372014272
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

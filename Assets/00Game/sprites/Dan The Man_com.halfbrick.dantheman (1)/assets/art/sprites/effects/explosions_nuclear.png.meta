@@ -1986,7 +1986,80 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      explosions_nuclear_0: -1746642789217618011
+      explosions_nuclear_1: 5711456693003939646
+      explosions_nuclear_10: 6176490501441805595
+      explosions_nuclear_11: 2054546331441998893
+      explosions_nuclear_12: -988329812461605379
+      explosions_nuclear_13: -1053300911793405816
+      explosions_nuclear_14: 8060315195390073131
+      explosions_nuclear_15: -8931033656627862592
+      explosions_nuclear_16: 4869592838215259311
+      explosions_nuclear_17: 6299175166786918410
+      explosions_nuclear_18: 3037725232882973680
+      explosions_nuclear_19: -5314471106346538277
+      explosions_nuclear_2: -8228806318711730059
+      explosions_nuclear_20: -4809198969655172829
+      explosions_nuclear_21: 9018329820857115277
+      explosions_nuclear_22: -2204173540819991169
+      explosions_nuclear_23: -1900880791381034991
+      explosions_nuclear_24: -5563010922859821057
+      explosions_nuclear_25: 6783082652250795426
+      explosions_nuclear_26: 1456875826615678231
+      explosions_nuclear_27: 2132296479346131598
+      explosions_nuclear_28: -523664345027428813
+      explosions_nuclear_29: -3276813114826700060
+      explosions_nuclear_3: -5593401306292196986
+      explosions_nuclear_30: 3541833738006670643
+      explosions_nuclear_31: -3246178012200706983
+      explosions_nuclear_32: 7897677064769103055
+      explosions_nuclear_33: -4459240163404867337
+      explosions_nuclear_34: 5686119543202251195
+      explosions_nuclear_35: 8913778105338726436
+      explosions_nuclear_36: 7837936724697694714
+      explosions_nuclear_37: 3348642997632792195
+      explosions_nuclear_38: -7819940499603789976
+      explosions_nuclear_39: 6682634300324548885
+      explosions_nuclear_4: 8400902654390834226
+      explosions_nuclear_40: -3902229881631808971
+      explosions_nuclear_41: 3797029474186495761
+      explosions_nuclear_42: 5713303798788076718
+      explosions_nuclear_43: 3880215420410532173
+      explosions_nuclear_44: -779900318703478041
+      explosions_nuclear_45: 3965040300013602898
+      explosions_nuclear_46: -7874762063457034066
+      explosions_nuclear_47: 2044646382355430492
+      explosions_nuclear_48: -5232015637683800273
+      explosions_nuclear_49: 378418386022168179
+      explosions_nuclear_5: -1738147879042882452
+      explosions_nuclear_50: -8669337030455754487
+      explosions_nuclear_51: -1547669185835186929
+      explosions_nuclear_52: -8489968324935776165
+      explosions_nuclear_53: -5092095339627046063
+      explosions_nuclear_54: 2564793753876054943
+      explosions_nuclear_55: 2073977832282618695
+      explosions_nuclear_56: -5279049026986477895
+      explosions_nuclear_57: 1075453735285207397
+      explosions_nuclear_58: -2642963980022615082
+      explosions_nuclear_59: 7900298447196694717
+      explosions_nuclear_6: 8260608997348361072
+      explosions_nuclear_60: -3134716269651175170
+      explosions_nuclear_61: -5968348668855998649
+      explosions_nuclear_62: 509943732260008570
+      explosions_nuclear_63: -1559537782162585802
+      explosions_nuclear_64: -4851240056226468516
+      explosions_nuclear_65: 5913899620387548219
+      explosions_nuclear_66: -1221528629118610929
+      explosions_nuclear_67: -6392286759675941321
+      explosions_nuclear_68: 3603742112098170143
+      explosions_nuclear_69: 3817159325772859834
+      explosions_nuclear_7: 305144663609503292
+      explosions_nuclear_70: -7647251510292312345
+      explosions_nuclear_71: 7608953852979383844
+      explosions_nuclear_72: -8192375263196105422
+      explosions_nuclear_8: -2423993287611192031
+      explosions_nuclear_9: 9204953376591855686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

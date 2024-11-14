@@ -261,7 +261,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_halloween_3_0: -1200308150590371751
+      visual_template_halloween_3_1: -8073846313634512575
+      visual_template_halloween_3_2: -8810247445803441314
+      visual_template_halloween_3_3: -2955172787261541208
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

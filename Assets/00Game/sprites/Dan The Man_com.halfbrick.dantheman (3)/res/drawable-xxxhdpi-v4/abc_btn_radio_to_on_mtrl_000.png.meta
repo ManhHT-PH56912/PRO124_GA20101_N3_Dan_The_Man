@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_btn_radio_to_on_mtrl_000_0: 1520669628260698505
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1661,7 +1661,67 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_sewers_2_0: -8698282657992902035
+      visual_template_sewers_2_1: -3274570417863752248
+      visual_template_sewers_2_10: -4051198533879910975
+      visual_template_sewers_2_11: 1188175487976291033
+      visual_template_sewers_2_12: 6926831992300363680
+      visual_template_sewers_2_13: -5455371609818460833
+      visual_template_sewers_2_14: -6066957340451790439
+      visual_template_sewers_2_15: -6887031200813263399
+      visual_template_sewers_2_16: -7069494827171767961
+      visual_template_sewers_2_17: -930560638264216341
+      visual_template_sewers_2_18: -6505857624653164990
+      visual_template_sewers_2_19: -4815955564081864299
+      visual_template_sewers_2_2: -1235654785212172365
+      visual_template_sewers_2_20: 5002627409889478415
+      visual_template_sewers_2_21: -3051540209779895881
+      visual_template_sewers_2_22: -196124566702991220
+      visual_template_sewers_2_23: -8118378633817426326
+      visual_template_sewers_2_24: -422540703163285929
+      visual_template_sewers_2_25: -8213354575802880073
+      visual_template_sewers_2_26: 708851452992488596
+      visual_template_sewers_2_27: -7425178327237505517
+      visual_template_sewers_2_28: -2886471800097687994
+      visual_template_sewers_2_29: -2166808823429513350
+      visual_template_sewers_2_3: -7635657767890202429
+      visual_template_sewers_2_30: 5671975254589610218
+      visual_template_sewers_2_31: 4601904751073946076
+      visual_template_sewers_2_32: -6266308804507234236
+      visual_template_sewers_2_33: 7505951039142588390
+      visual_template_sewers_2_34: 9025653679218318128
+      visual_template_sewers_2_35: -4474311311022168476
+      visual_template_sewers_2_36: -8786309856012594003
+      visual_template_sewers_2_37: -7862500517718568573
+      visual_template_sewers_2_38: -308372488620534014
+      visual_template_sewers_2_39: -2965090573027149418
+      visual_template_sewers_2_4: -7781557455155432424
+      visual_template_sewers_2_40: 5308511468795179439
+      visual_template_sewers_2_41: 493688767426483204
+      visual_template_sewers_2_42: -4922175402943602098
+      visual_template_sewers_2_43: -7105421177719470645
+      visual_template_sewers_2_44: 2992898858032664587
+      visual_template_sewers_2_45: 8907251172872233683
+      visual_template_sewers_2_46: -4363933653985735852
+      visual_template_sewers_2_47: -8904432464233969822
+      visual_template_sewers_2_48: -4100403137546406096
+      visual_template_sewers_2_49: 5872028499856817420
+      visual_template_sewers_2_5: 5338179365892081308
+      visual_template_sewers_2_50: 4261712342984284305
+      visual_template_sewers_2_51: -5741409610261837640
+      visual_template_sewers_2_52: -5929487205410970237
+      visual_template_sewers_2_53: 8100182683037296740
+      visual_template_sewers_2_54: -1170908502949215106
+      visual_template_sewers_2_55: 1674403501932215632
+      visual_template_sewers_2_56: -657335381135807484
+      visual_template_sewers_2_57: -5955893687051986985
+      visual_template_sewers_2_58: -3900216236661763528
+      visual_template_sewers_2_59: 697555607082117812
+      visual_template_sewers_2_6: -3103881849609559632
+      visual_template_sewers_2_7: 3682659518742006226
+      visual_template_sewers_2_8: 233501961644830673
+      visual_template_sewers_2_9: -3820537328660596544
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

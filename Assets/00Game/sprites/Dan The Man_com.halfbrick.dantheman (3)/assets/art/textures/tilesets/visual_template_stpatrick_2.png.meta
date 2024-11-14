@@ -336,7 +336,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_stpatrick_2_0: -8273885310863740215
+      visual_template_stpatrick_2_1: 6993724705509343723
+      visual_template_stpatrick_2_2: 660367983850943920
+      visual_template_stpatrick_2_3: -3314173585308863577
+      visual_template_stpatrick_2_4: 2074282983841385651
+      visual_template_stpatrick_2_5: 799453407967809559
+      visual_template_stpatrick_2_6: -6887421653501251568
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

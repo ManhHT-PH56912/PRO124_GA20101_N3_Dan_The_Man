@@ -861,7 +861,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      screen_rewards2_0: 4849635717273579471
+      screen_rewards2_1: -1210701098980999500
+      screen_rewards2_10: -8839615435159910871
+      screen_rewards2_11: -7377365559744368172
+      screen_rewards2_12: 1254457203693268274
+      screen_rewards2_13: 8230743131856761983
+      screen_rewards2_14: 3791703827969832459
+      screen_rewards2_15: 7863410881249408332
+      screen_rewards2_16: 7242465034959309730
+      screen_rewards2_17: -6089576933014296126
+      screen_rewards2_18: -1952565414216630955
+      screen_rewards2_19: 7732458893446674809
+      screen_rewards2_2: -7436963989081584916
+      screen_rewards2_20: -949429971237313778
+      screen_rewards2_21: 5355511018152305540
+      screen_rewards2_22: -5715350722673655840
+      screen_rewards2_23: -4687298451448047269
+      screen_rewards2_24: -1785308689118984233
+      screen_rewards2_25: -2271136430455131126
+      screen_rewards2_26: -5578867562725601944
+      screen_rewards2_27: -1048652719695814067
+      screen_rewards2_3: 5997266709346841191
+      screen_rewards2_4: -7248859545057301993
+      screen_rewards2_5: 5067740725978100322
+      screen_rewards2_6: -4444643799521239396
+      screen_rewards2_7: -6142342000051533002
+      screen_rewards2_8: -662396259097204329
+      screen_rewards2_9: 7013206474525934152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

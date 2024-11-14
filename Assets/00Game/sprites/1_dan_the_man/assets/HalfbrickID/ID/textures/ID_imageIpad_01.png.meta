@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ID_imageIpad_01_0: 1236296620846477376
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

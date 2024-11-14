@@ -736,7 +736,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_survival_1_0: 6362011417699952721
+      visual_template_survival_1_1: 5036648916660600741
+      visual_template_survival_1_10: 7851343997985719601
+      visual_template_survival_1_11: 3167782579279147171
+      visual_template_survival_1_12: 7504954797691380835
+      visual_template_survival_1_13: -6884650034110790489
+      visual_template_survival_1_14: -6780603370528298580
+      visual_template_survival_1_15: -8239815156988358424
+      visual_template_survival_1_16: 3029859114885377605
+      visual_template_survival_1_17: 6361145755899775036
+      visual_template_survival_1_18: 643363771299318162
+      visual_template_survival_1_19: -5030820092933929579
+      visual_template_survival_1_2: -3922038904343173937
+      visual_template_survival_1_20: 1300156628951706680
+      visual_template_survival_1_21: 1506912208191555285
+      visual_template_survival_1_22: -1584741583117066805
+      visual_template_survival_1_3: -2980088081124306628
+      visual_template_survival_1_4: -3618918712857722792
+      visual_template_survival_1_5: 4818421107525648778
+      visual_template_survival_1_6: 7924849362452122962
+      visual_template_survival_1_7: 1169882859685568190
+      visual_template_survival_1_8: 7819625308919007975
+      visual_template_survival_1_9: -5471541697251355894
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

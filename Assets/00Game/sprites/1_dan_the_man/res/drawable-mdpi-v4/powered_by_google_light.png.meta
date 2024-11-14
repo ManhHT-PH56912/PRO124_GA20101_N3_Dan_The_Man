@@ -261,7 +261,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      powered_by_google_light_0: -1756900349906217845
+      powered_by_google_light_1: 9022801441118624139
+      powered_by_google_light_2: -7973472669559286073
+      powered_by_google_light_3: 9055911606851437358
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

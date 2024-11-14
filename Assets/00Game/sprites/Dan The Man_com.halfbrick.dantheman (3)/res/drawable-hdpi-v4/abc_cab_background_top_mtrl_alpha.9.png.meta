@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_cab_background_top_mtrl_alpha.9_0: 1510634652285791906
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

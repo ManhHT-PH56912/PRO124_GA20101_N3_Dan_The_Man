@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      banker_idle_1_0: -3260778908581034528
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

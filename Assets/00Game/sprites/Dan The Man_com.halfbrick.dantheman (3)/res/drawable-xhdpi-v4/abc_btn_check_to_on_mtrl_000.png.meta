@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_btn_check_to_on_mtrl_000_0: -3311583856529527926
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      frosty_plains_bg_0: -3992192668742359248
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

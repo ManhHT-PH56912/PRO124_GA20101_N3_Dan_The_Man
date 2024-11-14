@@ -261,7 +261,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      raincoins_0: 2949398068691359070
+      raincoins_1: -1545927016187150124
+      raincoins_2: 4790052683155016350
+      raincoins_3: -4647018615145218686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

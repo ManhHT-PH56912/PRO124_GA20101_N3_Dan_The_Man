@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      messenger_bubble_small_white_0: 3407025923825507296
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

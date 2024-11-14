@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hat_3_purple_0: 7196245340730945559
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

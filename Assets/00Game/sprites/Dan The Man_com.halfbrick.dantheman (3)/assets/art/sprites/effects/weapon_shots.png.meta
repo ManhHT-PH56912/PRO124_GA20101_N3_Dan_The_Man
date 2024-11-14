@@ -511,7 +511,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      weapon_shots_0: 6035961784923108244
+      weapon_shots_1: 8234822368811756260
+      weapon_shots_10: 3926254054761372643
+      weapon_shots_11: -4428067409707923683
+      weapon_shots_12: 5906703267073660532
+      weapon_shots_13: -7257888654831501334
+      weapon_shots_2: 2377385772168091710
+      weapon_shots_3: -845115300377730658
+      weapon_shots_4: -9201519549949913577
+      weapon_shots_5: -5355282278571433164
+      weapon_shots_6: 6586837913164052148
+      weapon_shots_7: -8120443479568989039
+      weapon_shots_8: 1420457132381744933
+      weapon_shots_9: 4567366049648014040
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

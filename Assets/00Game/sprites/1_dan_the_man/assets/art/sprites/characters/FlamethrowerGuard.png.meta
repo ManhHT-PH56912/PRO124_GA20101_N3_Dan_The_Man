@@ -1511,7 +1511,61 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FlamethrowerGuard_0: -6360940804246228451
+      FlamethrowerGuard_1: 6138498800671171633
+      FlamethrowerGuard_10: -6809020510011752144
+      FlamethrowerGuard_11: 5928375110286309967
+      FlamethrowerGuard_12: -81856196417806765
+      FlamethrowerGuard_13: 5443343804826530052
+      FlamethrowerGuard_14: 2090375023088925754
+      FlamethrowerGuard_15: 6487238923502350840
+      FlamethrowerGuard_16: -8299689799102399227
+      FlamethrowerGuard_17: -8847651409645229536
+      FlamethrowerGuard_18: -1067829581991364383
+      FlamethrowerGuard_19: 4931318474202045362
+      FlamethrowerGuard_2: -8040716453179749838
+      FlamethrowerGuard_20: -2083336079250549877
+      FlamethrowerGuard_21: 5265874030543620701
+      FlamethrowerGuard_22: 1862137493775020161
+      FlamethrowerGuard_23: 7749643430998218805
+      FlamethrowerGuard_24: 1678853062021483827
+      FlamethrowerGuard_25: 8553884663133376967
+      FlamethrowerGuard_26: -1040770518540560657
+      FlamethrowerGuard_27: 2660880003661686256
+      FlamethrowerGuard_28: 4675971282681836056
+      FlamethrowerGuard_29: -2493171416533574791
+      FlamethrowerGuard_3: 5421827228997360136
+      FlamethrowerGuard_30: 1081887631373672530
+      FlamethrowerGuard_31: 4465900910869682621
+      FlamethrowerGuard_32: -6218250544665212108
+      FlamethrowerGuard_33: -4492059678235256536
+      FlamethrowerGuard_34: 1778590899153673034
+      FlamethrowerGuard_35: -6357263348172369518
+      FlamethrowerGuard_36: -9146527234710081697
+      FlamethrowerGuard_37: -8287528030041110381
+      FlamethrowerGuard_38: -2743298569482267521
+      FlamethrowerGuard_39: 8221123824194730782
+      FlamethrowerGuard_4: 8688477685905422696
+      FlamethrowerGuard_40: 2129585762527576039
+      FlamethrowerGuard_41: -4673271364380499586
+      FlamethrowerGuard_42: 1619905651070723770
+      FlamethrowerGuard_43: 4246067493477811060
+      FlamethrowerGuard_44: -4441940750163792395
+      FlamethrowerGuard_45: 6885019310180231065
+      FlamethrowerGuard_46: 8275816474527673485
+      FlamethrowerGuard_47: 5975175389341001645
+      FlamethrowerGuard_48: 6959121642626812711
+      FlamethrowerGuard_49: -8333241094051629205
+      FlamethrowerGuard_5: -340716639283512897
+      FlamethrowerGuard_50: 3216905260405336793
+      FlamethrowerGuard_51: -7889708514122950880
+      FlamethrowerGuard_52: -8394976581984787689
+      FlamethrowerGuard_53: -4212855098897173382
+      FlamethrowerGuard_6: -8805495357481110197
+      FlamethrowerGuard_7: -447275272988138095
+      FlamethrowerGuard_8: -2571294753724761766
+      FlamethrowerGuard_9: 5109833535729592784
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

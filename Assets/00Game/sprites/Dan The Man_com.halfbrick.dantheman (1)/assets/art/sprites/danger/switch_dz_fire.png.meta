@@ -461,7 +461,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      switch_dz_fire_0: 7891588620921041605
+      switch_dz_fire_1: 2270717010078850997
+      switch_dz_fire_10: -8846736235976409420
+      switch_dz_fire_11: -3560266879305093928
+      switch_dz_fire_2: 1638389794774326468
+      switch_dz_fire_3: 2045264608917690552
+      switch_dz_fire_4: -6878053435882628608
+      switch_dz_fire_5: -837137200785233246
+      switch_dz_fire_6: 7370318334285602496
+      switch_dz_fire_7: -4434913907777993366
+      switch_dz_fire_8: -4474331994772317907
+      switch_dz_fire_9: 6535619285315095460
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

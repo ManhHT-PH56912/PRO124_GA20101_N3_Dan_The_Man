@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      effect_dust_dash_2_0: -8993856513991871787
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

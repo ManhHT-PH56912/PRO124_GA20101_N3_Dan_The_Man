@@ -261,7 +261,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      touch_rings_0: 8021225069821873248
+      touch_rings_1: 1960203497750884795
+      touch_rings_2: -4966733008855466606
+      touch_rings_3: -2479725998779872679
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hs__cam_action_send_feedback_0: -8703345270332844936
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

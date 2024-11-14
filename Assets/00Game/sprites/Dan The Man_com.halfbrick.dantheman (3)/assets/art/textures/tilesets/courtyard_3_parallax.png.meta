@@ -386,7 +386,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      courtyard_3_parallax_0: 218301235232140552
+      courtyard_3_parallax_1: -4920446229355221086
+      courtyard_3_parallax_2: 8317052507974874337
+      courtyard_3_parallax_3: -534118439229475922
+      courtyard_3_parallax_4: 6811626013379910257
+      courtyard_3_parallax_5: 6446796657001738494
+      courtyard_3_parallax_6: -8128471958155210356
+      courtyard_3_parallax_7: -5065932713906223982
+      courtyard_3_parallax_8: 4285786499697748370
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

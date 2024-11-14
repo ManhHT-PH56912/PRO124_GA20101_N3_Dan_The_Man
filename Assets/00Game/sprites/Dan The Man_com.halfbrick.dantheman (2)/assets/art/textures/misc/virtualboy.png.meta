@@ -811,7 +811,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      virtualboy_0: -382821617520044597
+      virtualboy_1: -7280757628878959096
+      virtualboy_10: -1811200194991568028
+      virtualboy_11: 4715449281442964126
+      virtualboy_12: -7371974707079693374
+      virtualboy_13: -2248790108025709696
+      virtualboy_14: -1755250617729626135
+      virtualboy_15: -4971597411561756634
+      virtualboy_16: -6897756254633644260
+      virtualboy_17: -638434259373478957
+      virtualboy_18: 1823679346707078445
+      virtualboy_19: 2469327903316225843
+      virtualboy_2: -3098100267972782430
+      virtualboy_20: 4878423084300541450
+      virtualboy_21: -5881513178969341401
+      virtualboy_22: 1897323650141413249
+      virtualboy_23: 2239968835411984653
+      virtualboy_24: 2473311849150841223
+      virtualboy_25: -4953193279532720636
+      virtualboy_3: -1791065509861735716
+      virtualboy_4: -301380282799861160
+      virtualboy_5: 9153926779700951958
+      virtualboy_6: 7295071011870525539
+      virtualboy_7: 1952015828924942752
+      virtualboy_8: -6378775994950682771
+      virtualboy_9: 6422837044913554783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

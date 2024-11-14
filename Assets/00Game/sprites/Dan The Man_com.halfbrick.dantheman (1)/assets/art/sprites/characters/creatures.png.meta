@@ -386,7 +386,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      creatures_0: 883169853745958128
+      creatures_1: -5835395460045622604
+      creatures_2: 4009884456524302465
+      creatures_3: -6847764920030992259
+      creatures_4: 4068140767086656707
+      creatures_5: 8005814828426152072
+      creatures_6: 1780677263946428560
+      creatures_7: -9131931714415901820
+      creatures_8: 2732811783048934080
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

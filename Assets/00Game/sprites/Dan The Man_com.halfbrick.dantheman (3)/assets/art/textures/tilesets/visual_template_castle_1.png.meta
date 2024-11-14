@@ -1261,7 +1261,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_castle_1_0: -8275370045147399532
+      visual_template_castle_1_1: -2667782195551309366
+      visual_template_castle_1_10: 2522799188654323555
+      visual_template_castle_1_11: -74824074070160725
+      visual_template_castle_1_12: 4433748424923272132
+      visual_template_castle_1_13: -5800255018167372296
+      visual_template_castle_1_14: 1661419166532760642
+      visual_template_castle_1_15: -2189814001683097619
+      visual_template_castle_1_16: 7116791316220042454
+      visual_template_castle_1_17: 8304723442918291840
+      visual_template_castle_1_18: 4638016210500575560
+      visual_template_castle_1_19: -4041209950992448118
+      visual_template_castle_1_2: 5457012728825577080
+      visual_template_castle_1_20: 4618372724642584559
+      visual_template_castle_1_21: 7351572079075586889
+      visual_template_castle_1_22: -5639239541822950723
+      visual_template_castle_1_23: -7895618644821773170
+      visual_template_castle_1_24: -3611679661063457135
+      visual_template_castle_1_25: 5130597755433707015
+      visual_template_castle_1_26: 735329188298606137
+      visual_template_castle_1_27: 1805591171043128177
+      visual_template_castle_1_28: 4863874342647878742
+      visual_template_castle_1_29: -8549667131075885528
+      visual_template_castle_1_3: 8421251442461892805
+      visual_template_castle_1_30: -447627935781955252
+      visual_template_castle_1_31: -5126037196953287809
+      visual_template_castle_1_32: -2692254782636967549
+      visual_template_castle_1_33: -7475705571559238030
+      visual_template_castle_1_34: -8914442849186681257
+      visual_template_castle_1_35: -7798431156902193909
+      visual_template_castle_1_36: -8940308963643379877
+      visual_template_castle_1_37: -6938862252618887816
+      visual_template_castle_1_38: 2594211887032435103
+      visual_template_castle_1_39: 7930894244758108721
+      visual_template_castle_1_4: 4394777455218976165
+      visual_template_castle_1_40: 1051415911106646806
+      visual_template_castle_1_41: -6335471064271119444
+      visual_template_castle_1_42: 5427903087773208145
+      visual_template_castle_1_43: 1034913151706191367
+      visual_template_castle_1_5: 2865789197525394137
+      visual_template_castle_1_6: 2946134845046227481
+      visual_template_castle_1_7: 4249658718909320471
+      visual_template_castle_1_8: 8065441124995896195
+      visual_template_castle_1_9: -8049043408155274383
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

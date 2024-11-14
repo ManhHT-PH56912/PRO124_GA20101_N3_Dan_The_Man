@@ -1061,7 +1061,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      screen_store0_0: 6617728428805131024
+      screen_store0_1: -5118472912292126124
+      screen_store0_10: 5345709609830764964
+      screen_store0_11: -577854725404930844
+      screen_store0_12: 7072334346741114125
+      screen_store0_13: 7933761896810910015
+      screen_store0_14: 3836469943394709009
+      screen_store0_15: -2955886034612456593
+      screen_store0_16: 6633890904989777558
+      screen_store0_17: 7585004502817106557
+      screen_store0_18: 6695068330573730077
+      screen_store0_19: -7257674578483985871
+      screen_store0_2: -4797923523274876431
+      screen_store0_20: -4377593590451946289
+      screen_store0_21: 2489397379481709122
+      screen_store0_22: 3631165622264266933
+      screen_store0_23: 2298070632298762770
+      screen_store0_24: -3968494759968989301
+      screen_store0_25: 8701188043071498737
+      screen_store0_26: 4632150163144819605
+      screen_store0_27: -5454391052011642803
+      screen_store0_28: 303172633434268677
+      screen_store0_29: -2628225801324348916
+      screen_store0_3: 7044845205776953758
+      screen_store0_30: 2875584612638903967
+      screen_store0_31: -3240014270600873894
+      screen_store0_32: -7864625252319939194
+      screen_store0_33: 1226258176516511867
+      screen_store0_34: -4140299818343708689
+      screen_store0_35: 7736970377331660690
+      screen_store0_4: 6642859309865283700
+      screen_store0_5: 767757270922924992
+      screen_store0_6: 4474462009452037631
+      screen_store0_7: 1856054969059772456
+      screen_store0_8: -134728169544382230
+      screen_store0_9: -5809269712143966564
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

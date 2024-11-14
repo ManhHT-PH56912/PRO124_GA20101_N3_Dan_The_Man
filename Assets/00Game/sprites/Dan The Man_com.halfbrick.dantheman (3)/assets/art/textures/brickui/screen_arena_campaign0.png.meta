@@ -486,7 +486,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      screen_arena_campaign0_0: 2442835585200685684
+      screen_arena_campaign0_1: -1449076535913778783
+      screen_arena_campaign0_10: -8306249342889355500
+      screen_arena_campaign0_11: -8792471497760582560
+      screen_arena_campaign0_12: -1590626100338974734
+      screen_arena_campaign0_2: 5274935568568551484
+      screen_arena_campaign0_3: 1708057969964260401
+      screen_arena_campaign0_4: -2711798978795340908
+      screen_arena_campaign0_5: -1274625748914227909
+      screen_arena_campaign0_6: -6891096288541396310
+      screen_arena_campaign0_7: 906227470740483613
+      screen_arena_campaign0_8: 3503750366810867759
+      screen_arena_campaign0_9: 1931737336651540771
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
