@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sleigh_1_purple_front_0: -2137515397270314270
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

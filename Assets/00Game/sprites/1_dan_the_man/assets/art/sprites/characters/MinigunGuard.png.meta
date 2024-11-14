@@ -1286,7 +1286,52 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MinigunGuard_0: -6702299869555415802
+      MinigunGuard_1: -5055311862466864571
+      MinigunGuard_10: 3689584985489265069
+      MinigunGuard_11: 5999200856275112044
+      MinigunGuard_12: -4695965803912406836
+      MinigunGuard_13: -7918206064269195982
+      MinigunGuard_14: -7241668593857526006
+      MinigunGuard_15: 3486948806071304222
+      MinigunGuard_16: 2150187592188568874
+      MinigunGuard_17: -4572714315478555931
+      MinigunGuard_18: -6650353427782793894
+      MinigunGuard_19: -3796705764088475918
+      MinigunGuard_2: 9071167445793472741
+      MinigunGuard_20: -586608385054252070
+      MinigunGuard_21: -9187748020709935522
+      MinigunGuard_22: 3120493269514037134
+      MinigunGuard_23: 9132874789274496141
+      MinigunGuard_24: -3866406961119243768
+      MinigunGuard_25: -218141207310267780
+      MinigunGuard_26: -3903671398314505910
+      MinigunGuard_27: -1503303966412773984
+      MinigunGuard_28: -7250373407016479684
+      MinigunGuard_29: -314876506925594949
+      MinigunGuard_3: 8496747581319873254
+      MinigunGuard_30: -6842847809938829547
+      MinigunGuard_31: 8302891870293240818
+      MinigunGuard_32: 7753281248560114030
+      MinigunGuard_33: -7041687378508670916
+      MinigunGuard_34: -819735551399486335
+      MinigunGuard_35: -6815930209424473317
+      MinigunGuard_36: 3851614912935033887
+      MinigunGuard_37: 7455336234344179080
+      MinigunGuard_38: 9064370186552640095
+      MinigunGuard_39: 1074889325062432421
+      MinigunGuard_4: -838871841982905357
+      MinigunGuard_40: 2304670925922091243
+      MinigunGuard_41: 1242262292644478740
+      MinigunGuard_42: -146812963036428937
+      MinigunGuard_43: 4345977478856321799
+      MinigunGuard_44: -5669572950816639329
+      MinigunGuard_5: 7382777316678497207
+      MinigunGuard_6: 7959581868478823579
+      MinigunGuard_7: -7817656407778222351
+      MinigunGuard_8: 4541585893393582539
+      MinigunGuard_9: 771185051136855209
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -786,7 +786,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_ice_cave_2_0: -6543967712946862738
+      visual_template_ice_cave_2_1: -3514040969669705093
+      visual_template_ice_cave_2_10: -2779143118851384362
+      visual_template_ice_cave_2_11: -2389316784953389531
+      visual_template_ice_cave_2_12: -5499382990071327543
+      visual_template_ice_cave_2_13: 1054968896121237088
+      visual_template_ice_cave_2_14: 7210548767587575921
+      visual_template_ice_cave_2_15: 3346187087426575019
+      visual_template_ice_cave_2_16: -8950940835181847973
+      visual_template_ice_cave_2_17: -3865731113707237504
+      visual_template_ice_cave_2_18: 6286596934360049748
+      visual_template_ice_cave_2_19: -2555966517642529957
+      visual_template_ice_cave_2_2: 8300215690007068472
+      visual_template_ice_cave_2_20: -2332877458673413676
+      visual_template_ice_cave_2_21: 7921438988487008583
+      visual_template_ice_cave_2_22: 362396151756332096
+      visual_template_ice_cave_2_23: -2499163710996521679
+      visual_template_ice_cave_2_24: 6909229923599113979
+      visual_template_ice_cave_2_3: -7146268385043648801
+      visual_template_ice_cave_2_4: 6103465145889019116
+      visual_template_ice_cave_2_5: -2245076091806086763
+      visual_template_ice_cave_2_6: -1718846942477448006
+      visual_template_ice_cave_2_7: -7219867910830892229
+      visual_template_ice_cave_2_8: 9081961855644561939
+      visual_template_ice_cave_2_9: -6461130776557245918
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

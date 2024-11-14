@@ -1436,7 +1436,58 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DungeonGuard_0: -5787548768520359153
+      DungeonGuard_1: 1909547743546929184
+      DungeonGuard_10: 68509610870770032
+      DungeonGuard_11: -4761133805619144059
+      DungeonGuard_12: 7944717613111456013
+      DungeonGuard_13: -1892440398469402521
+      DungeonGuard_14: -489443478711616298
+      DungeonGuard_15: 299202780951006227
+      DungeonGuard_16: 4395529563519218063
+      DungeonGuard_17: 5797714943383446472
+      DungeonGuard_18: 426490945961905281
+      DungeonGuard_19: -5033420659169215266
+      DungeonGuard_2: -1705281405137141008
+      DungeonGuard_20: 798781680135933801
+      DungeonGuard_21: -7310483093217610880
+      DungeonGuard_22: 7387135283338594226
+      DungeonGuard_23: -4503189646133624675
+      DungeonGuard_24: 1895969442643306021
+      DungeonGuard_25: -908892149550432893
+      DungeonGuard_26: -782313351971144651
+      DungeonGuard_27: 5545639652111619312
+      DungeonGuard_28: -6408752392807085655
+      DungeonGuard_29: 1360085511681092336
+      DungeonGuard_3: 5739026263492931513
+      DungeonGuard_30: -4436380306708829347
+      DungeonGuard_31: -2335859766602300914
+      DungeonGuard_32: -8266004860160846250
+      DungeonGuard_33: 8530147350356405852
+      DungeonGuard_34: -3308449847152930597
+      DungeonGuard_35: -1536668955528316688
+      DungeonGuard_36: -7643722773933185287
+      DungeonGuard_37: 3885968844770704038
+      DungeonGuard_38: 5299071695548224668
+      DungeonGuard_39: -6451014662023259797
+      DungeonGuard_4: 4024240550236629347
+      DungeonGuard_40: -5505147759819787382
+      DungeonGuard_41: 76278540766141078
+      DungeonGuard_42: -3815222869952433460
+      DungeonGuard_43: -449175858992653587
+      DungeonGuard_44: 6282344844296081744
+      DungeonGuard_45: -9130936321561997902
+      DungeonGuard_46: 3975905629934960213
+      DungeonGuard_47: 4345391744432105972
+      DungeonGuard_48: 2462409239081456685
+      DungeonGuard_49: -8387723187036731087
+      DungeonGuard_5: 8232367339302150169
+      DungeonGuard_50: 5071922716646594316
+      DungeonGuard_6: -7063145357942311263
+      DungeonGuard_7: 4665719590858366139
+      DungeonGuard_8: 4786557580768364065
+      DungeonGuard_9: -7908995366501923367
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

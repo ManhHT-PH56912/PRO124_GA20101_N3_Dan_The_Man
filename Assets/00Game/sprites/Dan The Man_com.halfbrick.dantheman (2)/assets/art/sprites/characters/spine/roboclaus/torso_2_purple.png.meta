@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      torso_2_purple_0: -938174442869670754
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

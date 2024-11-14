@@ -311,7 +311,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      controller_arrows_appletv_0: 8318506617763816144
+      controller_arrows_appletv_1: 3332899234043767081
+      controller_arrows_appletv_2: 4956796405966686837
+      controller_arrows_appletv_3: -2270779389201287089
+      controller_arrows_appletv_4: 7624392247342579260
+      controller_arrows_appletv_5: -842722647709038006
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

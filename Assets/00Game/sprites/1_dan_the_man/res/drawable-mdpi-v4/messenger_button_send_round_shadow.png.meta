@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      messenger_button_send_round_shadow_0: 8718689977673792815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

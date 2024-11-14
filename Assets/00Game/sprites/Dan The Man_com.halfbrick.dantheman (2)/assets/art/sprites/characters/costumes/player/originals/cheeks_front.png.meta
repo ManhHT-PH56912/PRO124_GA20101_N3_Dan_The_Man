@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cheeks_front_0: 4356030652782817238
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

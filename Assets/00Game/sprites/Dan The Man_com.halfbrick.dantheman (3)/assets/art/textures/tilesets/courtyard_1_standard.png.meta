@@ -1011,7 +1011,41 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      courtyard_1_standard_0: 4734123850750396094
+      courtyard_1_standard_1: -3501683761765280004
+      courtyard_1_standard_10: 332794570444264267
+      courtyard_1_standard_11: 8493897574802204133
+      courtyard_1_standard_12: -8715690993419070426
+      courtyard_1_standard_13: -2791910595154458281
+      courtyard_1_standard_14: -576723389857208598
+      courtyard_1_standard_15: 1875099209681284517
+      courtyard_1_standard_16: 6522309569923281237
+      courtyard_1_standard_17: 3337536160742549919
+      courtyard_1_standard_18: -6308854744489028652
+      courtyard_1_standard_19: 993655747513420807
+      courtyard_1_standard_2: -1132036043992178109
+      courtyard_1_standard_20: -1051389742922541998
+      courtyard_1_standard_21: -7872508299884859839
+      courtyard_1_standard_22: -5326572740969148984
+      courtyard_1_standard_23: -1864180420090870929
+      courtyard_1_standard_24: -8320911915977440654
+      courtyard_1_standard_25: -871254003982737418
+      courtyard_1_standard_26: 5224236265053752498
+      courtyard_1_standard_27: 5244086420734192129
+      courtyard_1_standard_28: 6014453121647810207
+      courtyard_1_standard_29: -5249277742636541796
+      courtyard_1_standard_3: 4522012620296843313
+      courtyard_1_standard_30: -2369337083389392777
+      courtyard_1_standard_31: -4983264577353287320
+      courtyard_1_standard_32: 8565441268549042367
+      courtyard_1_standard_33: -431774458997051488
+      courtyard_1_standard_4: -8039936920324021330
+      courtyard_1_standard_5: 4501553088450283800
+      courtyard_1_standard_6: -4738597431202152793
+      courtyard_1_standard_7: -261329698833622657
+      courtyard_1_standard_8: -2157889160519826244
+      courtyard_1_standard_9: -2929931511622750902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -336,7 +336,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      countryside_2_standard_0: 9005397513637346288
+      countryside_2_standard_1: -6283436407453170977
+      countryside_2_standard_2: -6919595874374164490
+      countryside_2_standard_3: 9161190746285765599
+      countryside_2_standard_4: 7166861995344154908
+      countryside_2_standard_5: 8063912849770217723
+      countryside_2_standard_6: -6447078630979262884
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

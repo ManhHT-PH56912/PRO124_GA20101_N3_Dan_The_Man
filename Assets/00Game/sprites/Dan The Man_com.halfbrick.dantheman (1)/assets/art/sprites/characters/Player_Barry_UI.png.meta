@@ -511,7 +511,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Barry_UI_0: -7470341176159481218
+      Player_Barry_UI_1: -7556021486290282421
+      Player_Barry_UI_10: -6686069174288872443
+      Player_Barry_UI_11: -5887216950313691916
+      Player_Barry_UI_12: 3652864621214925423
+      Player_Barry_UI_13: -3274602667383795042
+      Player_Barry_UI_2: -6494952718592797017
+      Player_Barry_UI_3: -3975334904897917539
+      Player_Barry_UI_4: 5844385572123646348
+      Player_Barry_UI_5: -6634948713425147975
+      Player_Barry_UI_6: 8644069744544784490
+      Player_Barry_UI_7: -2549195948944581326
+      Player_Barry_UI_8: 714947148520579616
+      Player_Barry_UI_9: -7070455860629933154
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

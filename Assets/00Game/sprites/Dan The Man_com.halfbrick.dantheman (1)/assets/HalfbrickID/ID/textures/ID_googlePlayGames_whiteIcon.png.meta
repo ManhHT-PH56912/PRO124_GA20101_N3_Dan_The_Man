@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ID_googlePlayGames_whiteIcon_0: 4130732849576077637
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

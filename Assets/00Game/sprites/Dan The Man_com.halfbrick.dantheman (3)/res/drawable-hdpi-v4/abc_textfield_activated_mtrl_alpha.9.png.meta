@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_textfield_activated_mtrl_alpha.9_0: 972789723376628032
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

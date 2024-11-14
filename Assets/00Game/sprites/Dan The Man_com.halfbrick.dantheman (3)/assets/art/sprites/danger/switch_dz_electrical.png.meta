@@ -661,7 +661,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      switch_dz_electrical_0: 6328237949327682946
+      switch_dz_electrical_1: 9049606064311506827
+      switch_dz_electrical_10: -5577768940269855343
+      switch_dz_electrical_11: -7464602513525433165
+      switch_dz_electrical_12: 6089638684190244926
+      switch_dz_electrical_13: 3917641678416111611
+      switch_dz_electrical_14: -8043227435441426678
+      switch_dz_electrical_15: 5002715834318854790
+      switch_dz_electrical_16: 2346147304967254218
+      switch_dz_electrical_17: -6817067650788373539
+      switch_dz_electrical_18: -5194218724977191914
+      switch_dz_electrical_19: -2146642290440304411
+      switch_dz_electrical_2: 2233589907967729114
+      switch_dz_electrical_3: -8991876506155676714
+      switch_dz_electrical_4: -1925394612319785786
+      switch_dz_electrical_5: -8717826888105238982
+      switch_dz_electrical_6: 1239560901376278653
+      switch_dz_electrical_7: -6152917076864699763
+      switch_dz_electrical_8: -8031773414239722496
+      switch_dz_electrical_9: 2948277861381019672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

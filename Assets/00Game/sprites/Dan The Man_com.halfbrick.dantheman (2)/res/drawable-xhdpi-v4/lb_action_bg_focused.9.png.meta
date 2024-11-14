@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lb_action_bg_focused.9_0: -212477732887998577
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

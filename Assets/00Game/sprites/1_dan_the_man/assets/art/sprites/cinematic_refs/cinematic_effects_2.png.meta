@@ -861,7 +861,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cinematic_effects_2_0: 3029172348971740551
+      cinematic_effects_2_1: -4324997304600720490
+      cinematic_effects_2_10: 1884923909568761822
+      cinematic_effects_2_11: -6196607253417933975
+      cinematic_effects_2_12: 7086749714640808173
+      cinematic_effects_2_13: -4516802026443948893
+      cinematic_effects_2_14: -7530527278910556741
+      cinematic_effects_2_15: -1400175039036681367
+      cinematic_effects_2_16: 241904737093406394
+      cinematic_effects_2_17: 2928110514559104867
+      cinematic_effects_2_18: 296435943600470394
+      cinematic_effects_2_19: 7440984272553790764
+      cinematic_effects_2_2: -662064420715861680
+      cinematic_effects_2_20: -3898698827490994653
+      cinematic_effects_2_21: -3647810883911739294
+      cinematic_effects_2_22: 3737019955732652809
+      cinematic_effects_2_23: 394276151885497619
+      cinematic_effects_2_24: 161230566805979930
+      cinematic_effects_2_25: 4363377736260717841
+      cinematic_effects_2_26: -2737049827602141362
+      cinematic_effects_2_27: 2780531639091804754
+      cinematic_effects_2_3: 5537371301103741882
+      cinematic_effects_2_4: 3423596961979062877
+      cinematic_effects_2_5: -6904413200451172394
+      cinematic_effects_2_6: -942958743025681446
+      cinematic_effects_2_7: -6847579564862672933
+      cinematic_effects_2_8: 8254444833632030634
+      cinematic_effects_2_9: -7470134222677179928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

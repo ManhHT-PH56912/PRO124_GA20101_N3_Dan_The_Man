@@ -1261,7 +1261,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      moving_dz_fog_0: 1539320617736762766
+      moving_dz_fog_1: 4970138681994074735
+      moving_dz_fog_10: 4875214434100553042
+      moving_dz_fog_11: -2219021676934017666
+      moving_dz_fog_12: 6496199938724582510
+      moving_dz_fog_13: 7378948420276086093
+      moving_dz_fog_14: -5286171386582572506
+      moving_dz_fog_15: 6970190512991968649
+      moving_dz_fog_16: 6513880841523020472
+      moving_dz_fog_17: 680087745937050712
+      moving_dz_fog_18: 6335258597619641325
+      moving_dz_fog_19: 5864749977689748106
+      moving_dz_fog_2: 2845266509149159343
+      moving_dz_fog_20: 4982853744463253550
+      moving_dz_fog_21: -7499880610273431294
+      moving_dz_fog_22: 6447683963265632474
+      moving_dz_fog_23: 5664752720161140601
+      moving_dz_fog_24: 3477096323472644441
+      moving_dz_fog_25: -5598604084725385047
+      moving_dz_fog_26: -9158969243523557414
+      moving_dz_fog_27: -680679281080339085
+      moving_dz_fog_28: -2316383261643712976
+      moving_dz_fog_29: -8033326564612943647
+      moving_dz_fog_3: -903608981995727820
+      moving_dz_fog_30: 6050810907381388853
+      moving_dz_fog_31: -1094492235929022507
+      moving_dz_fog_32: 2094330639219600958
+      moving_dz_fog_33: 6016636118620657183
+      moving_dz_fog_34: -8701708518018946648
+      moving_dz_fog_35: -4771672382143023425
+      moving_dz_fog_36: 1950378511254525220
+      moving_dz_fog_37: -8702953491936080675
+      moving_dz_fog_38: -1854933382650080826
+      moving_dz_fog_39: -5760181805021851015
+      moving_dz_fog_4: 5899805485989862773
+      moving_dz_fog_40: 2577345736472783961
+      moving_dz_fog_41: 6393960796329490661
+      moving_dz_fog_42: 4749705967212019886
+      moving_dz_fog_43: -3516025006219177897
+      moving_dz_fog_5: -8091212406803592753
+      moving_dz_fog_6: 3418258267863058856
+      moving_dz_fog_7: 6052237810544957054
+      moving_dz_fog_8: -3980386782904095435
+      moving_dz_fog_9: 8286233900937048227
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

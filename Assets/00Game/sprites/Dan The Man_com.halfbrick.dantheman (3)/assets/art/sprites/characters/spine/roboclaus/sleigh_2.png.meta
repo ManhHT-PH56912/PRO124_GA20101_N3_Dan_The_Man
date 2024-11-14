@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sleigh_2_0: -3007976459954949448
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

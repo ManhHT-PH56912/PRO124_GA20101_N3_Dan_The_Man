@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      halloween_background_0: -4595942373724210781
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

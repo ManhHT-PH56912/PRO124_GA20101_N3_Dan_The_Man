@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_list_focused_holo.9_0: -9043932638328564686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

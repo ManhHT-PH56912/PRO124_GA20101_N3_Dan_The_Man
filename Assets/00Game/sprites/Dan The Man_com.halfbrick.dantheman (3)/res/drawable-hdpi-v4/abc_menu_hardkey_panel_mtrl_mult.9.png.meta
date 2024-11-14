@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_menu_hardkey_panel_mtrl_mult.9_0: -4821498465906857998
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

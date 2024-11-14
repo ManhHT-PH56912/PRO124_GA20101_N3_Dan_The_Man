@@ -536,7 +536,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Josie_UI_0: -7351493194226061954
+      Player_Josie_UI_1: 9202500597969498865
+      Player_Josie_UI_10: 1314502975354298436
+      Player_Josie_UI_11: 262140009905767695
+      Player_Josie_UI_12: -5960883324803345606
+      Player_Josie_UI_13: 4158941647783230237
+      Player_Josie_UI_14: 4246387594412732837
+      Player_Josie_UI_2: 7529861179241845903
+      Player_Josie_UI_3: 4033601294386340935
+      Player_Josie_UI_4: 4763501012463423012
+      Player_Josie_UI_5: 4098071474348182053
+      Player_Josie_UI_6: 2264107359196726833
+      Player_Josie_UI_7: 574150275776263092
+      Player_Josie_UI_8: -6032205050058455098
+      Player_Josie_UI_9: -896308473390998110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

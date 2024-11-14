@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_tile_skull_shine_0: 4528711652910447775
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

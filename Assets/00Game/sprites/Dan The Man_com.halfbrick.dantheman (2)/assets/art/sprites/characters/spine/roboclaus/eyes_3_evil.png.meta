@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      eyes_3_evil_0: 2702488999663055130
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

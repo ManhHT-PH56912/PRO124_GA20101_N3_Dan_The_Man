@@ -336,7 +336,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hs__cam_inbox_expired_campaign_0: 5476791889093835352
+      hs__cam_inbox_expired_campaign_1: -2648060503669330604
+      hs__cam_inbox_expired_campaign_2: -5195570790201109415
+      hs__cam_inbox_expired_campaign_3: -3511207842461234259
+      hs__cam_inbox_expired_campaign_4: 2450963941633433017
+      hs__cam_inbox_expired_campaign_5: -2264670725283475353
+      hs__cam_inbox_expired_campaign_6: 1636138268062723387
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

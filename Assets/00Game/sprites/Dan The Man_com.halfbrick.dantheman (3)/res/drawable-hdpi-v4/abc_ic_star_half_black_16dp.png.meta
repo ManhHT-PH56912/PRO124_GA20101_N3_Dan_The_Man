@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_ic_star_half_black_16dp_0: -7335642130353745909
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

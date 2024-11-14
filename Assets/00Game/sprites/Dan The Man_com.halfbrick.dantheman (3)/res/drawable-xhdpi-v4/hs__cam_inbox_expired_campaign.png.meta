@@ -1011,7 +1011,41 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hs__cam_inbox_expired_campaign_0: 5476791889093835352
+      hs__cam_inbox_expired_campaign_1: -2648060503669330604
+      hs__cam_inbox_expired_campaign_10: -687936085437849476
+      hs__cam_inbox_expired_campaign_11: -3657017275381494125
+      hs__cam_inbox_expired_campaign_12: -4200354335434653301
+      hs__cam_inbox_expired_campaign_13: -2898177643072644614
+      hs__cam_inbox_expired_campaign_14: 8610384285186916405
+      hs__cam_inbox_expired_campaign_15: -3605859452664290618
+      hs__cam_inbox_expired_campaign_16: -4123702978146840441
+      hs__cam_inbox_expired_campaign_17: -7646586971954739641
+      hs__cam_inbox_expired_campaign_18: -3207469565116049767
+      hs__cam_inbox_expired_campaign_19: 5229572709843635126
+      hs__cam_inbox_expired_campaign_2: -5195570790201109415
+      hs__cam_inbox_expired_campaign_20: -1434750576703294571
+      hs__cam_inbox_expired_campaign_21: 6557540091107748680
+      hs__cam_inbox_expired_campaign_22: 2595809739054795087
+      hs__cam_inbox_expired_campaign_23: -2072984713839888359
+      hs__cam_inbox_expired_campaign_24: 2892239602656392676
+      hs__cam_inbox_expired_campaign_25: -7058921600546250142
+      hs__cam_inbox_expired_campaign_26: -7236386647006500654
+      hs__cam_inbox_expired_campaign_27: 5075995149007175837
+      hs__cam_inbox_expired_campaign_28: -3927824586676612705
+      hs__cam_inbox_expired_campaign_29: 6654605128633982122
+      hs__cam_inbox_expired_campaign_3: -3511207842461234259
+      hs__cam_inbox_expired_campaign_30: -1210884606254174246
+      hs__cam_inbox_expired_campaign_31: 3793293476029714530
+      hs__cam_inbox_expired_campaign_32: -3216298946949120770
+      hs__cam_inbox_expired_campaign_33: -3595818191871584945
+      hs__cam_inbox_expired_campaign_4: 2450963941633433017
+      hs__cam_inbox_expired_campaign_5: -2264670725283475353
+      hs__cam_inbox_expired_campaign_6: 1636138268062723387
+      hs__cam_inbox_expired_campaign_7: -1839904876011416119
+      hs__cam_inbox_expired_campaign_8: -1208248952220099770
+      hs__cam_inbox_expired_campaign_9: 2157594731915996079
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

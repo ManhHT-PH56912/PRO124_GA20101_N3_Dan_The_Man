@@ -336,7 +336,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hs__logo_0: -6792893606515507127
+      hs__logo_1: 9114931647734503324
+      hs__logo_2: 7330951653934189292
+      hs__logo_3: 7125549399621744377
+      hs__logo_4: -7629349540812935171
+      hs__logo_5: -3535232952352568075
+      hs__logo_6: -3936933316900576233
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

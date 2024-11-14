@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      splash_dan_0: 6678449886604318547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

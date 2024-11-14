@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dojo_floor_0: -2047352801984695144
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

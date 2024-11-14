@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      effect_blue_punch_1_0: -329664969895328927
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

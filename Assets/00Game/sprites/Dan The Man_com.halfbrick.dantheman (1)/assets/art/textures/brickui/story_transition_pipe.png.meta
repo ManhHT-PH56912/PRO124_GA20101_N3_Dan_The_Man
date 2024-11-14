@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      story_transition_pipe_0: -1645491061205270718
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

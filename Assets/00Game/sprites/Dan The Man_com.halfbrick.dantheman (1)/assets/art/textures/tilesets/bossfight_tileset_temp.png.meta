@@ -361,7 +361,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bossfight_tileset_temp_0: 7492946892526447340
+      bossfight_tileset_temp_1: -2246655476669268358
+      bossfight_tileset_temp_2: 3268452054311922720
+      bossfight_tileset_temp_3: -784004728989394735
+      bossfight_tileset_temp_4: 2503478615213658140
+      bossfight_tileset_temp_5: 508583184621264248
+      bossfight_tileset_temp_6: -6000162925518891291
+      bossfight_tileset_temp_7: 4402599714165431502
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

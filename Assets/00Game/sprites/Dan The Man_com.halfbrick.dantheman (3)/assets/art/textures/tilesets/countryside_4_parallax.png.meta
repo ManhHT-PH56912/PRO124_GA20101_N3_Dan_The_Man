@@ -436,7 +436,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      countryside_4_parallax_0: -1537152386303921759
+      countryside_4_parallax_1: -3753729597499563332
+      countryside_4_parallax_10: -2259618839725858120
+      countryside_4_parallax_2: 6213680907830494344
+      countryside_4_parallax_3: -3768268780377903643
+      countryside_4_parallax_4: -2993289209570880726
+      countryside_4_parallax_5: 5403227029431278085
+      countryside_4_parallax_6: -1512120594995544883
+      countryside_4_parallax_7: -5022691669291859659
+      countryside_4_parallax_8: 7498575563048089136
+      countryside_4_parallax_9: 8771017746828428893
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

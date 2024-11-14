@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hs__actionbar_compat_shadow.9_0: 6736390630328321559
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

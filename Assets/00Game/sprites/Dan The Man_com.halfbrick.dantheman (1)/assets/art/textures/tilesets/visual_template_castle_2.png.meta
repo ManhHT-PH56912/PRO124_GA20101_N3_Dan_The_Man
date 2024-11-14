@@ -386,7 +386,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_castle_2_0: 3682439222226373965
+      visual_template_castle_2_1: 973852514605459241
+      visual_template_castle_2_2: 4360696514617109189
+      visual_template_castle_2_3: -6254142586715563610
+      visual_template_castle_2_4: 2719393654107424987
+      visual_template_castle_2_5: 1389814992058242934
+      visual_template_castle_2_6: -3397787276091183802
+      visual_template_castle_2_7: 6977504311773833342
+      visual_template_castle_2_8: -3804598107428290563
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

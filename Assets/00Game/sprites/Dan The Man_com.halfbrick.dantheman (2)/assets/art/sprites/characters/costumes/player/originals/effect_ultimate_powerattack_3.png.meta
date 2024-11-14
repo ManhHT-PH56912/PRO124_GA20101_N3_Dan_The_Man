@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      effect_ultimate_powerattack_3_0: 3719685172223353210
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

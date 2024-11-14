@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      common_google_signin_btn_text_light_normal_background.9_0: -3041194369455177501
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

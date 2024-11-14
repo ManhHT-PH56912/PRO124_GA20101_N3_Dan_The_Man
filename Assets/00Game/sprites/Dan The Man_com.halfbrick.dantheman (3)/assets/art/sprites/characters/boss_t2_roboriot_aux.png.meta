@@ -761,7 +761,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      boss_t2_roboriot_aux_0: 2917858915549471653
+      boss_t2_roboriot_aux_1: -1581355144813373220
+      boss_t2_roboriot_aux_10: -3720387370377886628
+      boss_t2_roboriot_aux_11: -2301465272806870760
+      boss_t2_roboriot_aux_12: -3615221723753472200
+      boss_t2_roboriot_aux_13: 2299509632960641812
+      boss_t2_roboriot_aux_14: 6024399365038936093
+      boss_t2_roboriot_aux_15: 1901974776557535168
+      boss_t2_roboriot_aux_16: 4906809925273252178
+      boss_t2_roboriot_aux_17: -1971295756820695234
+      boss_t2_roboriot_aux_18: 8777315433854349251
+      boss_t2_roboriot_aux_19: -9176202055999571934
+      boss_t2_roboriot_aux_2: 7730746316852347309
+      boss_t2_roboriot_aux_20: 4994217772116313908
+      boss_t2_roboriot_aux_21: -7815361810022560713
+      boss_t2_roboriot_aux_22: -6436473892810616427
+      boss_t2_roboriot_aux_23: 1637640303247803410
+      boss_t2_roboriot_aux_3: -5001167166692268906
+      boss_t2_roboriot_aux_4: 7103024101398749010
+      boss_t2_roboriot_aux_5: -2026237287680333449
+      boss_t2_roboriot_aux_6: -3244403992068940216
+      boss_t2_roboriot_aux_7: -2828253309556754149
+      boss_t2_roboriot_aux_8: 2430207972152827175
+      boss_t2_roboriot_aux_9: -8894199913275461566
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

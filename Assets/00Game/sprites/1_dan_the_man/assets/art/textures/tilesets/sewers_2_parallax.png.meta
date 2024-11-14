@@ -536,7 +536,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sewers_2_parallax_0: 6442666506001738314
+      sewers_2_parallax_1: -540425148661852600
+      sewers_2_parallax_10: -8762720992118624388
+      sewers_2_parallax_11: -2627798529426780954
+      sewers_2_parallax_12: 7171397112969469377
+      sewers_2_parallax_13: 1132689497167396404
+      sewers_2_parallax_14: -3757973974991529126
+      sewers_2_parallax_2: -4395510952581048488
+      sewers_2_parallax_3: -8620412007391227881
+      sewers_2_parallax_4: 8222518529330172236
+      sewers_2_parallax_5: 7561689855543242969
+      sewers_2_parallax_6: -8664517056334364441
+      sewers_2_parallax_7: 5500046870940596543
+      sewers_2_parallax_8: -8443192742931345808
+      sewers_2_parallax_9: -5727215804656290274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

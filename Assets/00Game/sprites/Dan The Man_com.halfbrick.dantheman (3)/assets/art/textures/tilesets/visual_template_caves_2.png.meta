@@ -736,7 +736,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_caves_2_0: 7346415820377955153
+      visual_template_caves_2_1: 3119809186077120061
+      visual_template_caves_2_10: -1449458560530847312
+      visual_template_caves_2_11: 4274932495392987728
+      visual_template_caves_2_12: -1432641092453884818
+      visual_template_caves_2_13: 7948319994957086114
+      visual_template_caves_2_14: -8080377406867659003
+      visual_template_caves_2_15: -6013777466641793970
+      visual_template_caves_2_16: -5272180059881185189
+      visual_template_caves_2_17: 2874931297093232349
+      visual_template_caves_2_18: -2630353722645649300
+      visual_template_caves_2_19: -3126339998495472419
+      visual_template_caves_2_2: 839372094613323007
+      visual_template_caves_2_20: -4053232394044741716
+      visual_template_caves_2_21: 2215638707943330249
+      visual_template_caves_2_22: 4811706225190583542
+      visual_template_caves_2_3: 8248951009607337282
+      visual_template_caves_2_4: -4254369615613861400
+      visual_template_caves_2_5: 5604962156864518476
+      visual_template_caves_2_6: -8057673692983824548
+      visual_template_caves_2_7: 7109264090292060275
+      visual_template_caves_2_8: -8887014557104480806
+      visual_template_caves_2_9: 6761836157349011142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

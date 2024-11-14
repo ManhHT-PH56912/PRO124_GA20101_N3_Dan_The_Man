@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      logo_shadow_valentine_0: -8697109644935373752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ID_gameIcon_shadow_0: 4332272293634104561
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

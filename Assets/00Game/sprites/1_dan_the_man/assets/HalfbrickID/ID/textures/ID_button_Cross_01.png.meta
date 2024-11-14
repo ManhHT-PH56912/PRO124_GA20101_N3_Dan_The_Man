@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ID_button_Cross_01_0: 2368374784183324098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -336,7 +336,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      screen_gamepad0_0: 6104386097601885460
+      screen_gamepad0_1: 4442627731763467971
+      screen_gamepad0_2: 972331910441642687
+      screen_gamepad0_3: -3952318015583342961
+      screen_gamepad0_4: -4244314352501307568
+      screen_gamepad0_5: -7571079058297444903
+      screen_gamepad0_6: 9088866217223357228
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

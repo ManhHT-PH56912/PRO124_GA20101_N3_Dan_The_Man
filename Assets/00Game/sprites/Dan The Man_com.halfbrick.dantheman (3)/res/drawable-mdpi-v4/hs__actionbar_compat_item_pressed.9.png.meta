@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hs__actionbar_compat_item_pressed.9_0: 6735182764054887040
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

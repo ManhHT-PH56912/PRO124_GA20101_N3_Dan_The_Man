@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_switch_track_mtrl_alpha.9_0: 2542036980873908893
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

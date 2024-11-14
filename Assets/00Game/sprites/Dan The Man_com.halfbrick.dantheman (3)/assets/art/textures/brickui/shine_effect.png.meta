@@ -211,7 +211,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shine_effect_0: 1984738693997066522
+      shine_effect_1: 6781230218630946643
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

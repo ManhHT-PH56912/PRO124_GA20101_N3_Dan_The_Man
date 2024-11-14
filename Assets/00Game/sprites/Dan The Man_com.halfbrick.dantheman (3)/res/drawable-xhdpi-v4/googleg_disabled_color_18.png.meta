@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      googleg_disabled_color_18_0: -2876111225322384477
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

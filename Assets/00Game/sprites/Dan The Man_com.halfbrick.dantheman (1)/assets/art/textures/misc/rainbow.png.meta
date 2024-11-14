@@ -336,7 +336,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rainbow_0: 9192207241966816860
+      rainbow_1: 102699859105068259
+      rainbow_2: -7809829829819639786
+      rainbow_3: 7492205575879739598
+      rainbow_4: 1289445695890064433
+      rainbow_5: 7342197354814861400
+      rainbow_6: 7907976624274483070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

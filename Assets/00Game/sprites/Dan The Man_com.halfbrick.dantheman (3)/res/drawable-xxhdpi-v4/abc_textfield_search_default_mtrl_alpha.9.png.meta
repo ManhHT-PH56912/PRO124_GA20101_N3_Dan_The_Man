@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_textfield_search_default_mtrl_alpha.9_0: 3994820940306691608
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hs__cam_inbox_default_cover_0: 4841425305425346540
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

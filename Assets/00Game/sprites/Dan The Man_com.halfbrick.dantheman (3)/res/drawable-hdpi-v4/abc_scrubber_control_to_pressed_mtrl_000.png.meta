@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_scrubber_control_to_pressed_mtrl_000_0: -1837519583770755346
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

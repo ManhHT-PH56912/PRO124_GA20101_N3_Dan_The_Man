@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_tile_heart_0: 1602726312523869856
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

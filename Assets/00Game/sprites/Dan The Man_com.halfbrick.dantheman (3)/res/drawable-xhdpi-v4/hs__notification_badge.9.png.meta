@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hs__notification_badge.9_0: -1532667063561564490
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

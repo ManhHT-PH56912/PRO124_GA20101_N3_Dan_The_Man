@@ -461,7 +461,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visual_template_snowy_village_3_0: -3491150846747540250
+      visual_template_snowy_village_3_1: -3251066708114276174
+      visual_template_snowy_village_3_10: 7770024529032899119
+      visual_template_snowy_village_3_11: -3380928086564934387
+      visual_template_snowy_village_3_2: -6767613330636558754
+      visual_template_snowy_village_3_3: 8805818215876846898
+      visual_template_snowy_village_3_4: -1219023446047886115
+      visual_template_snowy_village_3_5: 6926981528601765923
+      visual_template_snowy_village_3_6: -7450289715701766034
+      visual_template_snowy_village_3_7: 4807454472984880572
+      visual_template_snowy_village_3_8: 8281265296049543561
+      visual_template_snowy_village_3_9: -1862959307332102211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

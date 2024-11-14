@@ -1586,7 +1586,64 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      castle_exterior_1_standard_0: -5664509907825149516
+      castle_exterior_1_standard_1: -6887118927588067297
+      castle_exterior_1_standard_10: 4587234472911384781
+      castle_exterior_1_standard_11: -7951735399893184092
+      castle_exterior_1_standard_12: 4781536865770473125
+      castle_exterior_1_standard_13: -5127852615573748142
+      castle_exterior_1_standard_14: 8015368313960263790
+      castle_exterior_1_standard_15: -3866238922273391588
+      castle_exterior_1_standard_16: -3334557330568139018
+      castle_exterior_1_standard_17: 7659790738095902282
+      castle_exterior_1_standard_18: 8522684433418957357
+      castle_exterior_1_standard_19: -4081453054127778723
+      castle_exterior_1_standard_2: 1803385871220264846
+      castle_exterior_1_standard_20: 8290724754834390583
+      castle_exterior_1_standard_21: -7701862986032717529
+      castle_exterior_1_standard_22: 5458886173639912892
+      castle_exterior_1_standard_23: 2034800034919422018
+      castle_exterior_1_standard_24: -8647756836202632346
+      castle_exterior_1_standard_25: 2998689060446605095
+      castle_exterior_1_standard_26: -8145185995251413555
+      castle_exterior_1_standard_27: 4989120249009490206
+      castle_exterior_1_standard_28: -2243747721563093102
+      castle_exterior_1_standard_29: -8394751433731604155
+      castle_exterior_1_standard_3: -467078928308725912
+      castle_exterior_1_standard_30: 6610771089608328637
+      castle_exterior_1_standard_31: -301554222308629060
+      castle_exterior_1_standard_32: 1991249847656879250
+      castle_exterior_1_standard_33: -3040284948171049155
+      castle_exterior_1_standard_34: -8856781026701669754
+      castle_exterior_1_standard_35: -3575680588430961188
+      castle_exterior_1_standard_36: -2301506541051758066
+      castle_exterior_1_standard_37: -5292189821834153250
+      castle_exterior_1_standard_38: -3846545640746825298
+      castle_exterior_1_standard_39: -3871201113299675832
+      castle_exterior_1_standard_4: -3220535429680707227
+      castle_exterior_1_standard_40: 6085271466303346870
+      castle_exterior_1_standard_41: 6759494025941445611
+      castle_exterior_1_standard_42: 5548820585477495007
+      castle_exterior_1_standard_43: -6206815805953113864
+      castle_exterior_1_standard_44: -9165288060229396565
+      castle_exterior_1_standard_45: 4103181313654669990
+      castle_exterior_1_standard_46: 3439676445854821651
+      castle_exterior_1_standard_47: -6552424460571144672
+      castle_exterior_1_standard_48: 330477729199811066
+      castle_exterior_1_standard_49: -7202522357033266749
+      castle_exterior_1_standard_5: 176638861846399655
+      castle_exterior_1_standard_50: -5602985838143847486
+      castle_exterior_1_standard_51: 3692441835908127866
+      castle_exterior_1_standard_52: -8043238794244827620
+      castle_exterior_1_standard_53: 5908594843403875059
+      castle_exterior_1_standard_54: -5855576947803769093
+      castle_exterior_1_standard_55: -9061530762259868483
+      castle_exterior_1_standard_56: 3992980676827220583
+      castle_exterior_1_standard_6: 7737045123926230253
+      castle_exterior_1_standard_7: 8430015797359343693
+      castle_exterior_1_standard_8: -6604527082015510005
+      castle_exterior_1_standard_9: -6324309161869777935
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

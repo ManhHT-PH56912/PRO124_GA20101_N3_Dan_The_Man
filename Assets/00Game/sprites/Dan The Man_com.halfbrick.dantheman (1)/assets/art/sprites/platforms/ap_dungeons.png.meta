@@ -1061,7 +1061,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ap_dungeons_0: -8778841817276880181
+      ap_dungeons_1: 3737053364715099931
+      ap_dungeons_10: -4588888276317471443
+      ap_dungeons_11: -1926054159570355309
+      ap_dungeons_12: 817892984205422883
+      ap_dungeons_13: 980320449345148355
+      ap_dungeons_14: 5969480193717837071
+      ap_dungeons_15: 9190028546707289386
+      ap_dungeons_16: -8782636185513881948
+      ap_dungeons_17: 1756566270492636867
+      ap_dungeons_18: 5191825193299935758
+      ap_dungeons_19: 212773668605023667
+      ap_dungeons_2: -8670048338035070747
+      ap_dungeons_20: -454825495921977751
+      ap_dungeons_21: -4631860388696621534
+      ap_dungeons_22: -7946545112573780488
+      ap_dungeons_23: 2927784650828298284
+      ap_dungeons_24: -4439533705991745759
+      ap_dungeons_25: -592243073674065467
+      ap_dungeons_26: 645621339588818398
+      ap_dungeons_27: 2224434773484608597
+      ap_dungeons_28: 6100082651966489345
+      ap_dungeons_29: 3259265152694064888
+      ap_dungeons_3: 9164856180832095907
+      ap_dungeons_30: 3569149535895365452
+      ap_dungeons_31: -3135713802698803027
+      ap_dungeons_32: -6266028046446575888
+      ap_dungeons_33: 1344592372754173082
+      ap_dungeons_34: 7872978360444405643
+      ap_dungeons_35: -4837679843596717037
+      ap_dungeons_4: -8100228500593360673
+      ap_dungeons_5: -168978398482142171
+      ap_dungeons_6: -5381963759376763276
+      ap_dungeons_7: 2177948059836404799
+      ap_dungeons_8: 496048145593770888
+      ap_dungeons_9: 6148634956907894393
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

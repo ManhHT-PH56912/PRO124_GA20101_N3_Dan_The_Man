@@ -336,7 +336,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      castle_exterior_1_parallax_0: -6119630836772535276
+      castle_exterior_1_parallax_1: -1626949054236785093
+      castle_exterior_1_parallax_2: 182238726139721405
+      castle_exterior_1_parallax_3: 393426363953710055
+      castle_exterior_1_parallax_4: -5384484615931179730
+      castle_exterior_1_parallax_5: 764465227874825446
+      castle_exterior_1_parallax_6: -7412633096343361247
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

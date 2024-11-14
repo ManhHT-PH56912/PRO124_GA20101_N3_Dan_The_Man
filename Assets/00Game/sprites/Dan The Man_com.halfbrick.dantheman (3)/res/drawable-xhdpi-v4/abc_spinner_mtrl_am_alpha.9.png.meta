@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_spinner_mtrl_am_alpha.9_0: -6239200133902343727
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

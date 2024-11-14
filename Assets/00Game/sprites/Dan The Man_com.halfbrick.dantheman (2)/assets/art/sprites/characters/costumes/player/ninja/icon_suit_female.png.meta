@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon_suit_female_0: -5026022569355199859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      abc_list_selector_disabled_holo_dark.9_0: 4646996677986344663
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
