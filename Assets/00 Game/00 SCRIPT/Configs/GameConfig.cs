@@ -1,10 +1,12 @@
 using UnityEngine;
+using DesignPattern.Singleton;
 
-public class GameConfig : MonoBehaviour
+public class GameConfig : Singleton<GameConfig>
 {
-    private void Awake()
+    // Override Awake to customize behavior
+    protected override void Awake()
     {
-        DontDestroyOnLoad(gameObject);
+        base.Awake(); // Call base implementation to enforce Singleton
     }
 
     private void Update()
