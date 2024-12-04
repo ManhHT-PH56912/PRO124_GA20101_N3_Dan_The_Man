@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using static UnityEngine.RuleTile.TilingRuleOutput;
+
 
 public class PlayerController : MonoBehaviour
 {

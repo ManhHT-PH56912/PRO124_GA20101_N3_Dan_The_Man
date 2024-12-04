@@ -1,91 +1,116 @@
-using UnityEngine;
-using UnityEngine.UI;
-using System.Collections.Generic;
+// using UnityEngine;
+// using UnityEngine.UI;
+// using System.Collections.Generic;
 
-public class ShopManager : MonoBehaviour
-{
-    [System.Serializable]
-    public class ShopItem
-    {
-        public string itemName; // Tên sản phẩm
-        public int itemPrice;   // Giá sản phẩm
-    }
 
-    public int playerBalance = 100; // Số tiền ban đầu của người chơi
+// // Lớp tăng sát thương
+// public class AttackItem : ShopItem
+// {
+//     protected PlayerHealth playerHealth;
+//     private int attackIncrease;
 
-    public List<ShopItem> shopItems; // Danh sách sản phẩm trong shop
-    public GameObject buttonPrefab;  // Prefab cho các nút sản phẩm
-    public Transform buttonContainer; // Vị trí chứa các nút trong UI
+//     public AttackItem(string name, int price, int attackIncrease) : base(name, price)
+//     {
+//         this.attackIncrease = attackIncrease;
+//     }
 
-    void Start()
-    {
-        // Tạo các nút sản phẩm động
-        GenerateShopButtons();
-    }
+//     public override void ApplyEffect(Player player)
+//     {
+//         player.Attack += attackIncrease;
+//         Debug.Log($"{Name} applied. Attack increased by {attackIncrease}.");
+//     }
+// }
 
-    public void SelectItem(int itemCost, string itemName)
-    {
-        if (CheckBalance(itemCost))
-        {
-            ConfirmPurchase(itemCost, itemName);
-        }
-        else
-        {
-            ShowError("Not enough money to buy " + itemName);
-        }
-    }
+// // Lớp tăng giáp
+// public class DefenseItem : ShopItem
+// {
+//     private int defenseIncrease;
 
-    private bool CheckBalance(int cost)
-    {
-        return playerBalance >= cost;
-    }
+//     public DefenseItem(string name, int price, int defenseIncrease) : base(name, price)
+//     {
+//         this.defenseIncrease = defenseIncrease;
+//     }
 
-    private void ConfirmPurchase(int cost, string itemName)
-    {
-        DeductMoney(cost);
-        ApplyItemEffects(itemName);
-        ShowSuccessMessage(itemName);
-    }
+//     public override void ApplyEffect(Player player)
+//     {
+//         player.Defense += defenseIncrease;
+//         Debug.Log($"{Name} applied. Defense increased by {defenseIncrease}.");
+//     }
+// }
 
-    private void DeductMoney(int amount)
-    {
-        playerBalance -= amount;
-        Debug.Log("Money deducted. New balance: " + playerBalance);
-    }
+// // Lớp tăng máu
+// public class HealthItem : ShopItem
+// {
+//     private int healthIncrease;
 
-    private void ApplyItemEffects(string itemName)
-    {
-        Debug.Log("Applied effects of: " + itemName);
-        // Thêm hiệu ứng của item vào đây
-    }
+//     public HealthItem(string name, int price, int healthIncrease) : base(name, price)
+//     {
+//         this.healthIncrease = healthIncrease;
+//     }
 
-    private void ShowSuccessMessage(string itemName)
-    {
-        Debug.Log("Purchase successful: " + itemName);
-    }
+//     public override void ApplyEffect(Player player)
+//     {
+//         player.Health += healthIncrease;
+//         Debug.Log($"{Name} applied. Health increased by {healthIncrease}.");
+//     }
+// }
 
-    private void ShowError(string message)
-    {
-        Debug.LogError(message);
-    }
+// // Lớp quản lý shop
+// public class ShopManager : MonoBehaviour
+// {
+//     public GameObject buttonPrefab;
+//     public Transform buttonContainer;
+//     public Text itemDescriptionText;
 
-    private void GenerateShopButtons()
-    {
-        foreach (ShopItem item in shopItems)
-        {
-            // Tạo một nút mới từ prefab
-            GameObject newButton = Instantiate(buttonPrefab, buttonContainer);
+//     private Player player;
+//     private ScoreManager scoreManager;
+//     private List<IShopItem> shopItems = new List<IShopItem>();
 
-            // Cập nhật text hiển thị trên nút
-            Text buttonText = newButton.GetComponentInChildren<Text>();
-            buttonText.text = $"{item.itemName} - {item.itemPrice}$";
+//     void Start()
+//     {
+//         // Khởi tạo Player và ScoreManager
+//         player = new Player(10, 5, 100); // Chỉ số ban đầu: Sát thương 10, Giáp 5, Máu 100
+//         scoreManager = new ScoreManager(100); // Số dư ban đầu 100$
 
-            // Lấy component Button và gán sự kiện
-            Button buttonComponent = newButton.GetComponent<Button>();
-            int price = item.itemPrice;
-            string name = item.itemName;
+//         // Tạo danh sách vật phẩm
+//         shopItems.Add(new AttackItem("Sword", 30, 5));
+//         shopItems.Add(new DefenseItem("Shield", 40, 10));
+//         shopItems.Add(new HealthItem("Potion", 20, 50));
 
-            buttonComponent.onClick.AddListener(() => SelectItem(price, name));
-        }
-    }
-}
+//         // Tạo nút động trong shop
+//         GenerateShopButtons();
+//     }
+
+//     private void GenerateShopButtons()
+//     {
+//         foreach (var item in shopItems)
+//         {
+//             GameObject newButton = Instantiate(buttonPrefab, buttonContainer);
+
+//             // Cập nhật text hiển thị trên nút
+//             Text buttonText = newButton.GetComponentInChildren<Text>();
+//             buttonText.text = $"{item.Name} - {item.Price}$";
+
+//             // Gán sự kiện khi nhấn nút
+//             Button button = newButton.GetComponent<Button>();
+//             button.onClick.AddListener(() => OnItemClicked(item));
+//         }
+//     }
+
+//     private void OnItemClicked(IShopItem item)
+//     {
+//         // Hiển thị thông tin vật phẩm
+//         itemDescriptionText.text = $"Item: {item.Name}\nPrice: {item.Price}$";
+
+//         // Kiểm tra và thực hiện mua
+//         if (scoreManager.DeductBalance(item.Price))
+//         {
+//             item.ApplyEffect(player);
+//             Debug.Log($"Purchased {item.Name}. Remaining Balance: {scoreManager.GetBalance()}$");
+//         }
+//         else
+//         {
+//             Debug.LogError($"Not enough money to buy {item.Name}.");
+//         }
+//     }
+// }

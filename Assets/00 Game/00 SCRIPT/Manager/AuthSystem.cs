@@ -7,14 +7,16 @@ public class AuthSystem : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI TopText;
     [SerializeField] TextMeshProUGUI MessengerText;
+    
     [Header("Login")]
     [SerializeField] TMP_InputField EmailLogin;
     [SerializeField] TMP_InputField PassLogin;
     [SerializeField] GameObject LoginPage;
+
     [Header("Register")]
     [SerializeField] TMP_InputField UserRegister;
     [SerializeField] TMP_InputField EmailRegister;
-    [SerializeField] TMP_InputField PasswordsRegister;  
+    [SerializeField] TMP_InputField PasswordsRegister;
     [SerializeField] GameObject RegisterPage;
 
     void Start()
@@ -22,32 +24,34 @@ public class AuthSystem : MonoBehaviour
         PlayerPrefs.DeleteAll();
     }
 
-    public void OpenLogin(){
+    public void OpenLogin()
+    {
         LoginPage.SetActive(true);
         RegisterPage.SetActive(false);
         TopText.text = "Login";
     }
 
-    public void OpenRegister(){
-
+    public void OpenRegister()
+    {
         LoginPage.SetActive(false);
         RegisterPage.SetActive(true);
         TopText.text = "Register";
     }
 
-    public void LoginProcess(){
+    public void LoginProcess()
+    {
         string email = EmailLogin.text; // gia tri chung ta nhap vao truong input
         string password = PassLogin.text;
-        
+
         if (PlayerPrefs.HasKey(email))
         {
             string storedPassword = PlayerPrefs.GetString(password);
-            
+
             if (storedPassword == password)
             {
                 MessengerText.text = "Đăng nhập thành công!";
                 // Chuyển sang màn hình chính hoặc thực hiện logic khác
-                StartCoroutine(loadScene(Consts.Scene.MAIN_MENU));
+                StartCoroutine(LoadScene(Consts.Scene.MAIN_MENU));
             }
             else
             {
@@ -56,14 +60,17 @@ public class AuthSystem : MonoBehaviour
         }
     }
 
-    public void RegisterProcess(){
+    public void RegisterProcess()
+    {
         string username = UserRegister.text;
         string email = EmailRegister.text;
         string password = PasswordsRegister.text;
         if (PlayerPrefs.HasKey(username))
         {
             MessengerText.text = "Tên tài khoản đã tồn tại!";
-        }else if(PlayerPrefs.HasKey(email)){
+        }
+        else if (PlayerPrefs.HasKey(email))
+        {
             MessengerText.text = "Email đã tồn tại!";
         }
         else
@@ -78,14 +85,15 @@ public class AuthSystem : MonoBehaviour
         }
     }
 
-    IEnumerator loadScene(string MAIN_MENU)
+    IEnumerator LoadScene(string MAIN_MENU)
     {
         yield return new WaitForSeconds(1);
         SceneManager.LoadScene(MAIN_MENU);
     }
 
-    IEnumerator HideNotification(){
+    IEnumerator HideNotification()
+    {
         yield return new WaitForSeconds(0.2f);
-        MessengerText.text ="";
+        MessengerText.text = "";
     }
 }
