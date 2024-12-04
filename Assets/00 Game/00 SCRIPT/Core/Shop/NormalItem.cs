@@ -1,11 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
 
+// UI Shop
 public class NormalItem : ItemBase
 {
     [SerializeField] Image _imageItem;
     [SerializeField] Text _nameItem;
     [SerializeField] Text _quantityItem;
+    [SerializeField] Text _priceItem;
 
     void Start()
     {
@@ -13,6 +15,7 @@ public class NormalItem : ItemBase
         _imageItem.sprite = _info._image;
         _nameItem.text = _info._name;
         _quantityItem.text = this._quantity.ToString();
+        _priceItem.text = _info._price.ToString();
     }
 
     void OnDrawGizmosSelected()
@@ -21,5 +24,6 @@ public class NormalItem : ItemBase
         _imageItem.sprite = _info._image;
         _nameItem.text = _info._name;
         _quantityItem.text = this._quantity.ToString();
+        _priceItem.text = _info._price.ToString();
     }
 }

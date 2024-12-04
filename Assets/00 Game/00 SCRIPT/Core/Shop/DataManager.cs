@@ -9,7 +9,7 @@ public class DataManager : Singleton<DataManager>
     [SerializeField] List<ItemDataSO> _genaralDataItems = new();
     public List<ItemDataSO> genaralDataItems;
 
-    private void Star()
+    private void Start()
     {
         _genaralDataItems = Resources.LoadAll<ItemDataSO>("Items").ToList();
     }

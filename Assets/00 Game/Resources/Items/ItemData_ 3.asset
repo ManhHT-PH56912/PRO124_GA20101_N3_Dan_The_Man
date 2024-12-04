@@ -13,5 +13,10 @@ MonoBehaviour:
   m_Name: ItemData_ 3
   m_EditorClassIdentifier: 
   _ID: 2
-  _name: HP
+  _name: Blood
   _image: {fileID: 7416732720858654047, guid: 83898135fe8b67e4ebe65d65c9af7483, type: 3}
+  _price: 80
+  _healthIncrease: 50
+  _armorIncrease: 0
+  _meleeDamageIncrease: 0
+  _kickDamageIncrease: 0

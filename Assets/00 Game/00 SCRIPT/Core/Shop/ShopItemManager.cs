@@ -1,10 +1,23 @@
 using System.Collections.Generic;
 using UnityEngine;
-using HuynnLib;
 
-public class ShopItemManager : Singleton<ShopItemManager>
+public class ShopItemManager : MonoBehaviour
 {
-    [SerializeField] List<ItemBase> _items = new();
-    public List<ItemBase> items => _items;
-    
+    public List<ItemDataSO> itemDataList;
+
+    // Log Itims
+    void Start()
+    {
+        if (itemDataList != null && itemDataList.Count > 0)
+        {
+            foreach (var item in itemDataList)
+            {
+                Debug.Log($"ID: {item._ID}, Name: {item._name}, Price: {item._price}");
+            }
+        }
+        else
+        {
+            Debug.LogWarning("No items found in the itemDataList.");
+        }
+    }
 }

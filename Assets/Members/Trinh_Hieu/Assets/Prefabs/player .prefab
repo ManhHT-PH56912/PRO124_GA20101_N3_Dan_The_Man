@@ -14,7 +14,8 @@ GameObject:
   - component: {fileID: 7163390148402384819}
   - component: {fileID: 2019100162545235932}
   - component: {fileID: 6556100425018482018}
-  m_Layer: 0
+  - component: {fileID: 5573730256920527446}
+  m_Layer: 6
   m_Name: 'player '
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -129,7 +130,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 2
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -200,12 +201,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  jumpForce: 10
+  jumpForce: 5
   groundCheck: {fileID: 1849271984019249608}
   groundCheckRadius: 0.2
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
+--- !u!114 &5573730256920527446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5465806047653457581}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f06f84c3e229bf479139e411e4bf2be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreController: {fileID: 0}
+  scoreValue: 2
 --- !u!1 &7455636461199800633
 GameObject:
   m_ObjectHideFlags: 0
@@ -215,7 +230,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1849271984019249608}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: 'GroundCheck '
   m_TagString: Untagged
   m_Icon: {fileID: 0}

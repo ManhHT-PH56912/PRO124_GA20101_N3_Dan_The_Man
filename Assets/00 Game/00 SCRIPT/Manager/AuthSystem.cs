@@ -1,7 +1,6 @@
 using System.Collections;
 using TMPro;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class AuthSystem : MonoBehaviour
 {
@@ -40,7 +39,7 @@ public class AuthSystem : MonoBehaviour
 
     public void LoginProcess()
     {
-        string email = EmailLogin.text; // gia tri chung ta nhap vao truong input
+        string email = EmailLogin.text;
         string password = PassLogin.text;
 
         if (PlayerPrefs.HasKey(email))
@@ -50,8 +49,7 @@ public class AuthSystem : MonoBehaviour
             if (storedPassword == password)
             {
                 MessengerText.text = "Đăng nhập thành công!";
-                // Chuyển sang màn hình chính hoặc thực hiện logic khác
-                StartCoroutine(LoadScene(Consts.Scene.MAIN_MENU));
+                StartCoroutine(LoadScene());
             }
             else
             {
@@ -85,10 +83,10 @@ public class AuthSystem : MonoBehaviour
         }
     }
 
-    IEnumerator LoadScene(string MAIN_MENU)
+    IEnumerator LoadScene()
     {
-        yield return new WaitForSeconds(1);
-        SceneManager.LoadScene(MAIN_MENU);
+        yield return new WaitForSeconds(1);    
+        MainMenu.BaclMainMenu();
     }
 
     IEnumerator HideNotification()

@@ -7,6 +7,7 @@ TagManager:
   - Water
   - ground
   - Checkpoint
+  - Coins
   layers:
   - Default
   - TransparentFX
@@ -46,6 +47,12 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1800893809
+    locked: 0
+  - name: 
+    uniqueID: 1263957903
+    locked: 0
+  - name: UI
+    uniqueID: 928831719
     locked: 0
   m_RenderingLayers:
   - Default

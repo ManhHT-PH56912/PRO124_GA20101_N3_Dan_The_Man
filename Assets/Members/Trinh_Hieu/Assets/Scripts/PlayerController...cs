@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float jumpForce = 10f;
 
     [Header("Ground Check")]
-    [SerializeField] private UnityEngine.Transform groundCheck;
+    [SerializeField] private Transform groundCheck;
     [SerializeField] private float groundCheckRadius = 0.2f;
     [SerializeField] private LayerMask whatIsGround;
 
@@ -106,6 +106,11 @@ public class PlayerController : MonoBehaviour
         {
             isGrounded = true;
             jumpCount = 0;
+        }
+        
+        if (collision.gameObject.CompareTag("Coin"))
+        {
+            Destroy(collision.gameObject);
         }
     }
 

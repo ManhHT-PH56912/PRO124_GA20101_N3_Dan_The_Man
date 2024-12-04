@@ -1,6 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class Movingplatform : MonoBehaviour
@@ -9,6 +6,7 @@ public class Movingplatform : MonoBehaviour
     public Transform start;
     public Transform end;
     public Vector2 mucTieu;
+    
     void Start()
     {
         mucTieu = start.position;
@@ -28,6 +26,7 @@ public class Movingplatform : MonoBehaviour
 
         transform.position = Vector2.MoveTowards(transform.position, mucTieu, tocDoDiChuyen * Time.deltaTime);
     }
+    
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
@@ -35,6 +34,7 @@ public class Movingplatform : MonoBehaviour
             collision.transform.SetParent(this.transform);
         }
     }
+
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))

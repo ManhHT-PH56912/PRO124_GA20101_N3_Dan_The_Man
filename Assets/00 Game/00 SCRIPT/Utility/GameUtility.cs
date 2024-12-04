@@ -1,5 +1,6 @@
+using System.IO;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 
 public static class GameUtility
 {
@@ -19,5 +20,24 @@ public static class GameUtility
     public static void SetActive(GameObject obj, bool isActive)
     {
         obj.SetActive(isActive);
+    }
+
+    // Phương thức chụp ảnh màn hình hiện tại và lưu vào file
+    public static void CaptureCurrentScreen(string fileName)
+    {
+        string path = Path.Combine(Application.persistentDataPath, fileName);
+        ScreenCapture.CaptureScreenshot(path);
+        Debug.Log($"Screenshot saved to: {path}");
+    }
+
+    // Phương thức tải màn hình dựa trên index và tăng index
+    public static void LoadScreen(ref int currentIndex, int totalScreens)
+    {
+        // Tăng index (vòng lặp lại từ đầu nếu vượt quá tổng số màn hình)
+        currentIndex = (currentIndex + 1) % totalScreens;
+
+        // Tải màn hình theo index
+        SceneManager.LoadScene(currentIndex);
+        Debug.Log($"Loaded Screen Index: {currentIndex}");
     }
 }

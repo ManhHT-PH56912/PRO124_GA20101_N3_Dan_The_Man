@@ -14,4 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _ID: 2
   _name: Armor
-  _image: {fileID: 3320805450569646179, guid: b9a4a40c1952c75488b29cbe5250f264, type: 3}
+  _image: {fileID: 991060369396281997, guid: 9a1a5740edb048144a91f7a3bfe00b80, type: 3}
+  _price: 100
+  _healthIncrease: 0
+  _armorIncrease: 100
+  _meleeDamageIncrease: 0
+  _kickDamageIncrease: 0
