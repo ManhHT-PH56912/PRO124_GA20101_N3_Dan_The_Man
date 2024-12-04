@@ -11,6 +11,7 @@ public class player : MonoBehaviour
 
     private Rigidbody2D rb;
     private float h_move;
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {

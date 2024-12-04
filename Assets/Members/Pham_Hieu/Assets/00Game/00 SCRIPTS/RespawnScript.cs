@@ -14,6 +14,7 @@ public class RespawnScript : MonoBehaviour
     {
         
     }
+    
     private void OnTriggerEnter2D(Collider2D collision)
     {
         player.transform.position = RespawnPoint.transform.position;

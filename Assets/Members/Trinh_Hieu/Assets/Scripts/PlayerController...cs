@@ -19,11 +19,14 @@ public class PlayerController : MonoBehaviour
     private bool facingRight = true;
     private bool isAttacking = false;
 
+    private Health health;
+
     void Start()
     {
         // Cache Rigidbody và Animator
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        health = GetComponent<Health>();
     }
 
     [System.Obsolete]
@@ -111,6 +114,13 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.CompareTag("Coin"))
         {
             Destroy(collision.gameObject);
+        }
+
+                
+        if (collision.gameObject.CompareTag(Consts.Tags.ENEMY_TAGS))
+        {
+            health.TakeDame(50);
+            Destroy(collision.gameObject, 3f);
         }
     }
 
