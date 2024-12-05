@@ -1,7 +1,14 @@
 using UnityEngine;
 
+<<<<<<< HEAD
 public class CheckPoint : MonoBehaviour
 {
+=======
+
+public class CheckPoint : MonoBehaviour
+{
+    public GameObject player;
+>>>>>>> 6ed0cc495 (save and finish)
     private RespawnScript respawn;
     private BoxCollider2D checkpointCollder;
     private void Awake()

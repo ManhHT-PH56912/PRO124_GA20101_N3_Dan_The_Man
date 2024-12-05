@@ -8,7 +8,11 @@ TagManager:
   - ground
   - Checkpoint
   - Coins
+<<<<<<< HEAD
   - Enemy
+=======
+  - Ground
+>>>>>>> e60a65075 (Add Assets directory)
   layers:
   - Default
   - TransparentFX
@@ -16,8 +20,17 @@ TagManager:
   - Ground
   - Water
   - UI
+<<<<<<< HEAD
   - Enemy
   - Player
+=======
+<<<<<<< HEAD
+  - 
+=======
+  - Player
+>>>>>>> e60a65075 (Add Assets directory)
+  - 
+>>>>>>> 06eb76664093ed474ab970bf1f05fbd0ea29d668
   - 
   - 
   - 

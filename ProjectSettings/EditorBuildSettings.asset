@@ -10,7 +10,11 @@ EditorBuildSettings:
     guid: 6067a47d8fe41284fab33e5c5d07e2a7
   - enabled: 1
     path: Assets/00 Game/_Scenes/MainMenu.unity
+<<<<<<< HEAD
     guid: f8cc44feb7d836749b4d97e0474247ee
+=======
+    guid: 9a010b6390ca1be42b33e875fd6754fb
+>>>>>>> e60a65075 (Add Assets directory)
   - enabled: 1
     path: Assets/00 Game/_Scenes/Shop.unity
     guid: 43339a5b31a0ece458cb8080af136b3c

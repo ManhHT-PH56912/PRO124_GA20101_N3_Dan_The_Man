@@ -6,7 +6,11 @@ public class AuthSystem : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI TopText;
     [SerializeField] TextMeshProUGUI MessengerText;
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 6ed0cc495 (save and finish)
     [Header("Login")]
     [SerializeField] TMP_InputField EmailLogin;
     [SerializeField] TMP_InputField PassLogin;
@@ -18,10 +22,17 @@ public class AuthSystem : MonoBehaviour
     [SerializeField] TMP_InputField PasswordsRegister;
     [SerializeField] GameObject RegisterPage;
 
+<<<<<<< HEAD
     // void Start()
     // {
     //     PlayerPrefs.DeleteAll();
     // }
+=======
+    void Start()
+    {
+        PlayerPrefs.DeleteAll();
+    }
+>>>>>>> 6ed0cc495 (save and finish)
 
     public void OpenLogin()
     {
@@ -37,7 +48,10 @@ public class AuthSystem : MonoBehaviour
         TopText.text = "Register";
     }
 
+<<<<<<< HEAD
     [System.Obsolete]
+=======
+>>>>>>> 6ed0cc495 (save and finish)
     public void LoginProcess()
     {
         string email = EmailLogin.text;
@@ -59,7 +73,10 @@ public class AuthSystem : MonoBehaviour
         }
     }
 
+<<<<<<< HEAD
     [System.Obsolete]
+=======
+>>>>>>> 6ed0cc495 (save and finish)
     public void RegisterProcess()
     {
         string username = UserRegister.text;
@@ -80,7 +97,10 @@ public class AuthSystem : MonoBehaviour
             PlayerPrefs.SetString(password, password);
             PlayerPrefs.Save();
             MessengerText.text = "Đăng ký thành công!";
+<<<<<<< HEAD
             // GameManager.Instance.OnLogginAccount(); // Xóa Score Data
+=======
+>>>>>>> 6ed0cc495 (save and finish)
             StartCoroutine(HideNotification());
             OpenLogin();
         }
@@ -88,7 +108,11 @@ public class AuthSystem : MonoBehaviour
 
     IEnumerator LoadScene()
     {
+<<<<<<< HEAD
         yield return new WaitForSeconds(1);
+=======
+        yield return new WaitForSeconds(1);    
+>>>>>>> 6ed0cc495 (save and finish)
         MainMenu.BaclMainMenu();
     }
 
