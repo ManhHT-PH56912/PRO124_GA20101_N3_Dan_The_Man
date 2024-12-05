@@ -7,8 +7,12 @@ public class Hpbar
     public float healthAmount = 100f;
 
     [System.Obsolete]
+<<<<<<< HEAD
 
     private void Update()
+=======
+    void Update()
+>>>>>>> 6ed0cc495 (save and finish)
     {
         if (healthAmount <= 0) 
         {

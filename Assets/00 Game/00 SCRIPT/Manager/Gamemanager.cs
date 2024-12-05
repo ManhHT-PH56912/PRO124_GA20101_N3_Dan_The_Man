@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // // Cách sử dụng trong GameManager
 // using DesignPattern.Singleton;
 // using UnityEngine;
@@ -22,3 +23,26 @@
 //         Debug.Log($"High Score: {ScoreManager.Instance.HighScore}");
 //     }
 // }
+=======
+using UnityEngine;
+
+public class Gamemanager : MonoBehaviour
+{
+
+    private void Awake()
+    {
+
+    }
+
+    private void OnEnable()
+    {
+
+    }
+
+    private void Start()
+    {
+
+    }
+    
+}
+>>>>>>> 6ed0cc495 (save and finish)

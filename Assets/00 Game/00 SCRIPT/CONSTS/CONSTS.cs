@@ -21,8 +21,11 @@ namespace Consts
         public static string ENEMY_TAGS = "Enemy";
         public static string COINS_TAG = "Coins";
 
+<<<<<<< HEAD
         public static string GROUND_TAG = "Ground";
 
+=======
+>>>>>>> 6ed0cc495 (save and finish)
         public static string TRAP_TAG = "Trap";
         public static string MEXT_lEVEL_TAG = "NextLevel";
         public static string CHECKPOINT_TAG = "";
