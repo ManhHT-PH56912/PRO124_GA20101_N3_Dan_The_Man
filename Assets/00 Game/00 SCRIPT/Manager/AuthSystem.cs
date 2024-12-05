@@ -6,7 +6,7 @@ public class AuthSystem : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI TopText;
     [SerializeField] TextMeshProUGUI MessengerText;
-    
+
     [Header("Login")]
     [SerializeField] TMP_InputField EmailLogin;
     [SerializeField] TMP_InputField PassLogin;
@@ -18,10 +18,10 @@ public class AuthSystem : MonoBehaviour
     [SerializeField] TMP_InputField PasswordsRegister;
     [SerializeField] GameObject RegisterPage;
 
-    void Start()
-    {
-        PlayerPrefs.DeleteAll();
-    }
+    // void Start()
+    // {
+    //     PlayerPrefs.DeleteAll();
+    // }
 
     public void OpenLogin()
     {
@@ -37,6 +37,7 @@ public class AuthSystem : MonoBehaviour
         TopText.text = "Register";
     }
 
+    [System.Obsolete]
     public void LoginProcess()
     {
         string email = EmailLogin.text;
@@ -58,6 +59,7 @@ public class AuthSystem : MonoBehaviour
         }
     }
 
+    [System.Obsolete]
     public void RegisterProcess()
     {
         string username = UserRegister.text;
@@ -78,6 +80,7 @@ public class AuthSystem : MonoBehaviour
             PlayerPrefs.SetString(password, password);
             PlayerPrefs.Save();
             MessengerText.text = "Đăng ký thành công!";
+            // GameManager.Instance.OnLogginAccount(); // Xóa Score Data
             StartCoroutine(HideNotification());
             OpenLogin();
         }
@@ -85,7 +88,7 @@ public class AuthSystem : MonoBehaviour
 
     IEnumerator LoadScene()
     {
-        yield return new WaitForSeconds(1);    
+        yield return new WaitForSeconds(1);
         MainMenu.BaclMainMenu();
     }
 

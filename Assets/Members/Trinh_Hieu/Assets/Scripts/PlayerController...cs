@@ -119,8 +119,7 @@ public class PlayerController : MonoBehaviour
                 
         if (collision.gameObject.CompareTag(Consts.Tags.ENEMY_TAGS))
         {
-            health.TakeDame(50);
-            Destroy(collision.gameObject, 3f);
+            health.TakeDame(10);
         }
     }
 
@@ -132,6 +131,3 @@ public class PlayerController : MonoBehaviour
         transform.localScale = scaler;
     }
 }
-
-
-

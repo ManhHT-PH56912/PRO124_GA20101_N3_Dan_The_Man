@@ -1,7 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-// UI Shop
 public class NormalItem : ItemBase
 {
     [SerializeField] Image _imageItem;
