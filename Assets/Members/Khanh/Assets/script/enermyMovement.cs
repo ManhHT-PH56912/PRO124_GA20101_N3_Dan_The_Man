@@ -34,10 +34,10 @@ public class EnermyMovement : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        // Handle collision with the player
-        if (collision.gameObject.CompareTag("Player"))
+      if (collision.gameObject.CompareTag(Consts.Tags.PLAYER_TAG))
         {
-            playerHealth.TakeDame(30);
+            playerHealth.TakeDame(10);
+            Destroy(collision.gameObject, 0.5f);
         }
     }
 
@@ -65,6 +65,8 @@ public class EnermyMovement : MonoBehaviour
                 enemyRB.AddForce(new Vector2(-1, 0) * enemySpeed);
             else enemyRB.AddForce(new Vector2(1, 0) * enemySpeed);
             enemyAnim.SetBool("Run", true);
+            // Set Annim
+            Destroy(this.gameObject, 2f);
         }
     }
 
